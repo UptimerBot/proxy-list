@@ -33,6 +33,9 @@ jobs:
       - name: update fetched date
         run: |
           date >| proxies/date.txt
+          ls
+          cd proxies
+          ls
           
       - name: commit files
         run: |
