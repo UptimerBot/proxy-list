@@ -36,13 +36,20 @@ jobs:
           ls
           cd proxies
           ls
-          
-      - name: commit files
+      - name: commit
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "Proxy Scraper Bot"
-          git add -A
-          git commit -m "Update proxies" -a
+          rm -rf .git
+          git init
+          git add .
+          git commit -m "`Update proxies | date`"
+          git remote add origin git@github.com:uptimerbot/proxy-list.git
+          
+    #  - name: commit files
+    #   run: |
+    #      git config --local user.email "action@github.com"
+    #     git config --local user.name "Proxy Scraper Bot"
+    #      git add -A
+    #      git commit -m "Update proxies" -a
           
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
