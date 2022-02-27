@@ -36,15 +36,17 @@ jobs:
           ls
           cd proxies
           ls          
+          echo "-"
+          cat http.txt
     
-      - name: commit files
+      - name: Commit files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "Proxy Scraper Bot"
           git add -A
-          git commit -m "Update Proxies | `date`" -a
+          git commit -m "Update Proxies" -a
           
-      - name: push changes
+      - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
