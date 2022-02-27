@@ -14,7 +14,7 @@ SORT_BY_SPEED = True
 
 # Path to the folder where the proxy folders will be saved.
 # Leave the quotes empty to save the proxies to the current directory.
-SAVE_PATH = ""
+SAVE_PATH = "proxies"
 
 # Enable which proxy folders to create.
 # Set to False to disable.
