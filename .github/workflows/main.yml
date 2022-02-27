@@ -10,48 +10,39 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      - name: checkout repo content
+      - name: Checkout repo content
         uses: actions/checkout@v2 # checkout the repository content to github runner
 
-      - name: setup python
+      - name: Setup python
         uses: actions/setup-python@v2
         with:
           python-version: '3.7.7' # install the python version needed
           
-      - name: install python packages
+      - name: Install python packages
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           
-      - name: execute py script # run sj-gobierno.py to get the latest data
+      - name: Execute py script # run sj-gobierno.py to get the latest data
        # env: 
        #   EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
        #   EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
        #   EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
         run: python main.py
         
-      - name: update fetched date
+      - name: Update proxies/date.txt
         run: |
           date >| proxies/date.txt
           ls
           cd proxies
-          ls
-      - name: commit
+          ls          
+    
+      - name: commit files
         run: |
-          rm -rf .git
-          git init
           git config --local user.email "action@github.com"
           git config --local user.name "Proxy Scraper Bot"
-          git add .
-          git commit -m "`Update proxies | date`"
-          git remote add origin git@github.com:uptimerbot/proxy-list.git
-          
-    #  - name: commit files
-    #   run: |
-    #      git config --local user.email "action@github.com"
-    #     git config --local user.name "Proxy Scraper Bot"
-    #      git add -A
-    #      git commit -m "Update proxies" -a
+          git add -A
+          git commit -m "Update Proxies | `date`" -a
           
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
