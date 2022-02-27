@@ -1,4 +1,4 @@
-name: proxy-list
+name: proxy-list-scraper
 
 on:
   schedule:
