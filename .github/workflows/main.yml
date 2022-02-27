@@ -40,6 +40,8 @@ jobs:
         run: |
           rm -rf .git
           git init
+          git config --local user.email "action@github.com"
+          git config --local user.name "Proxy Scraper Bot"
           git add .
           git commit -m "`Update proxies | date`"
           git remote add origin git@github.com:uptimerbot/proxy-list.git
