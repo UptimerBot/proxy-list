@@ -29,6 +29,10 @@ jobs:
        #   EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
        #   EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
         run: python main.py
+        
+      - name: update fetched date
+        run: |
+          date >> /proxies/date.txt
           
       - name: commit files
         run: |
