@@ -44,6 +44,8 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "Proxy Scraper Bot"
           git add -A
+          git add proxies
+          git add proxies/http.txt
           git commit -m "Update Proxies" -a
           git branch -u origin/main
           
