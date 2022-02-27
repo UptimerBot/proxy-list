@@ -31,7 +31,7 @@ jobs:
         
       - name: Update date.txt
         run: |
-          date > | date.txt
+          date >| date.txt
     
       - name: Commit files
         run: |
