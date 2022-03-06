@@ -1,67 +1,38 @@
-34.134.60.185:443::United States::Iowa::Council Bluffs
-193.162.105.1:1080::Turkey::Istanbul::Istanbul
-91.134.230.231:3389::France::Hauts-de-France::Gravelines
-175.24.235.242:7891::United States::Oregon::Portland
-218.205.124.54:7302::China::Zhejiang::Hangzhou
-59.66.16.123:10800::Hong Kong::Central and Western District::Hong Kong
-117.159.198.122:7302::China::Henan::Zhengzhou
-85.208.252.138:9050::Germany::North Rhine-Westphalia::Bonn
-117.86.138.13:20023::China::Guangdong::Shenzhen
-47.242.14.172:8888::Singapore::None::Singapore
-111.75.57.94:20014::China::Guizhou::Gouchang
-111.75.57.236:20020::China::Sichuan::Luzhou
-59.62.245.222:20020::China::Sichuan::Guangyuan
-185.200.37.118:10820::Turkey::Hatay::Antakya
-59.62.244.121:20007::China::Hebei::Qiaoxi
-111.75.57.32:20001::China::Hubei::Wulipu
-143.248.55.62:5566::France::Hauts-de-France::Gravelines
-60.12.81.5:7302::China::Zhejiang::Shaoxing
-117.86.138.81:20025::China::Shandong::Yantai
-81.68.250.104:10800::Japan::Tokyo::Tokyo
-111.75.57.236:20014::China::Shanxi::Mahuangtou
-34.95.224.52:443::Brazil::São Paulo::Sao Paulo
-142.93.143.155:9010::Luxembourg::Mersch::Roost
-111.75.57.47:20010::China::Zhejiang::Huzhou
-60.28.57.177:7302::China::Tianjin::Tianjin
-223.100.29.20:7302::China::Beijing::Haidian
-221.214.109.166:7302::China::Shandong::Jinan
-148.251.52.99:57731::Russia::Moscow::Moscow
-58.18.36.61:7300::China::Inner Mongolia Autonomous Region::Ordos
+103.73.74.179:1080::Indonesia::West Java::Balongsari
 39.103.191.6:7777::United States::California::Santa Clara
-61.180.29.126:20006::China::Jiangsu::Qinnan
-51.79.249.12:32009::United States::California::Los Angeles
-113.247.221.4:7302::China::Hunan::Changsha
-58.218.204.217:1088::Hong Kong::Kwun Tong::Kowloon Bay
-111.43.116.162:7302::China::Heilongjiang::Harbin
-182.101.207.165:7300::China::Jiangxi::Baitang
-111.75.57.175:20001::China::Shanxi::Linfen
-123.157.100.91:7302::China::Zhejiang::Quzhou
-138.68.51.109:9050::Netherlands::North Holland::Amsterdam
-61.180.28.177:20005::China::Beijing::Beijing
-112.5.101.162:7300::Hong Kong::Tsuen Wan District::Tsuen Wan
-210.12.172.12:7300::China::Beijing::Beijing
-138.197.208.39:9050::United States::Washington::Seattle
-125.141.139.198:5566::Sweden::Stockholm County::Stockholm
-111.75.57.106:20001::China::Anhui::Rongcheng
-183.172.225.189:10800::United States::California::Los Angeles
-218.205.124.53:7302::China::Zhejiang::Hangzhou
+185.200.38.228:10820::Turkey::Hatay::Antakya
+47.106.218.216:1080::Hong Kong::Central and Western District::Central
+182.111.75.248:20036::Hong Kong::Tsuen Wan District::Tsuen Wan
+34.95.224.52:443::Brazil::São Paulo::Sao Paulo
+111.47.10.107:7302::China::Hubei::Wuhan
+219.145.191.165:7302::China::Shaanxi::Weinan
+182.111.75.174:20015::China::Gansu::Lanzhou
+138.68.18.219:9050::United States::Washington::Seattle
+218.205.124.54:7302::China::Zhejiang::Hangzhou
+118.242.27.66:7300::China::Shanghai::Xuhui
+61.180.29.233:20005::China::Beijing::Beijing
+221.214.109.166:7300::China::Shandong::Jinan
+102.36.127.249:1080::South Africa::Mpumalanga::White River
+223.100.29.20:7302::China::Beijing::Haidian
 58.18.36.61:7302::China::Inner Mongolia Autonomous Region::Ordos
+138.197.197.200:9050::Germany::Bavaria::Bischberg
+117.86.138.13:20012::China::Zhejiang::Hangzhou
+113.0.71.246:7302::China::Heilongjiang::Harbin
+112.5.101.162:7300::Hong Kong::Tsuen Wan District::Tsuen Wan
+58.218.204.217:1088::Hong Kong::Kwun Tong::Kowloon Bay
 223.82.106.156:7302::China::Guangdong::Shenzhen
-120.211.6.105:7300::China::Hebei::Baoding
-159.69.153.169:5566::Sweden::Stockholm County::Stockholm
-61.180.28.177:20011::China::Hubei::Wuhan
-210.16.73.82:1080::Philippines::Calabarzon::San Pablo City
-111.30.79.44:7302::China::Tianjin::Tianjin
-117.86.175.88:20006::Hong Kong::Tsuen Wan District::Tsuen Wan
-125.141.139.197:5566::Germany::North Rhine-Westphalia::Bonn
-51.83.21.224:16379::Germany::Bavaria::Bischberg
-61.180.28.177:20055::China::Shanghai::Shanghai
-159.65.106.51:9050::United States::California::San Diego
-61.180.29.60:20012::China::Henan::Zhengzhou
-117.86.184.232:20016::China::Tianjin::Tianjin
-103.141.12.190:1080::Bangladesh::Rajshahi Division::Chandina
-49.12.231.108:10006::Canada::Quebec::Montreal
-166.62.83.60:48127::United States::Arizona::Scottsdale
-103.230.212.21:7302::China::Beijing::Beijing
-78.38.108.194:1080::Iran::Sistan and Baluchestan::Zabol
-111.75.57.236:20001::China::Sichuan::Zhongba
+124.126.152.64:1080::United States::California::Los Angeles
+117.86.138.81:20004::China::Anhui::Wuhu
+61.180.28.137:20003::China::Henan::Puyang
+51.83.21.224:16379::United States::Washington::Seattle
+117.86.184.232:20032::China::Hebei::Shijiazhuang
+138.68.51.109:9050::United States::Washington::Seattle
+61.180.28.177:20009::China::Henan::Baigaomiao
+182.111.75.178:20010::China::Yunnan::Jianshui
+210.12.172.12:7300::China::Beijing::Beijing
+119.97.243.214:7302::China::Hubei::Wuhan
+188.127.235.122:25258::United States::California::North Hollywood
+185.154.72.177:41080::Russia::Rostov Oblast::Rostov-on-Don
+114.250.168.160:7891::China::Beijing::Beijing
+58.18.36.61:7300::China::Inner Mongolia Autonomous Region::Ordos
+143.248.55.62:5566::Germany::Bavaria::Bischberg
