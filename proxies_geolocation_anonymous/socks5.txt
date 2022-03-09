@@ -1,60 +1,46 @@
-220.134.225.18:9119::Taiwan::Nantou::Nantou City
-223.223.198.206:6000::Hong Kong::Central and Western District::Central
-142.93.143.155:9010::Netherlands::North Brabant::Roosendaal
-138.197.208.39:9050::Ukraine::Dnipropetrovsk Oblast::Dnipro
-59.62.196.162:20016::China::Beijing::Beijing
-182.111.75.178:20034::China::Guangdong::Shenzhen
-59.62.196.162:20012::China::Hebei::Shijiazhuang
-61.180.29.249:20008::China::Shanghai::Huangpu
-117.159.198.122:7302::China::Henan::Zhengzhou
-218.205.124.53:7302::China::Zhejiang::Hangzhou
-103.68.182.90:8009::Hong Kong::Islands District::Tung Chung
-117.86.175.87:20010::China::Hubei::Jingling
-111.75.57.88:20011::China::Shanghai::Shanghai
-111.75.57.175:20007::China::Guangdong::Shenzhen
-111.113.14.244:7302::China::Ningxia Hui Autonomous Region::Yinchuan
-112.5.101.162:7300::Hong Kong::Tsuen Wan District::Tsuen Wan
-34.95.224.52:443::Brazil::São Paulo::Sao Paulo
-121.226.122.118:20016::China::Hubei::Wuhan
-61.180.29.228:20020::China::Hunan::Loudi
-54.37.200.252:29244::Germany::Hesse::Limburg an der Lahn
-61.180.29.233:20012::China::Sichuan::Liangshan Yizu Zizhizhou
-54.37.194.101:32556::Germany::Hesse::Limburg an der Lahn
-113.9.157.29:7302::China::Heilongjiang::Harbin
-210.12.172.12:7302::China::Beijing::Beijing
-118.242.27.66:7300::China::Shanghai::Xuhui
-111.75.57.236:20010::China::Guangdong::Guangzhou
-66.150.130.46:52488::United States::Washington::Seattle
-58.18.36.61:7300::China::Inner Mongolia Autonomous Region::Ordos
-111.75.57.47:20012::China::Hunan::Changsha
+34.134.60.185:443::United States::Iowa::Council Bluffs
+171.224.229.183:5006::Vietnam::Tinh Nam GJinh::Nam Định
+121.43.159.196:7890::United States::Oregon::Portland
 112.54.33.47:7302::Hong Kong::Tsuen Wan District::Tsuen Wan
-59.62.196.162:20023::China::Beijing::Beijing
-111.43.116.162:7302::China::Heilongjiang::Harbin
-182.111.75.248:20030::China::Shanxi::Taiyuan
-59.62.196.162:20036::China::Gansu::Yuzhong Chengguanzhen
-113.247.221.4:7300::China::Hunan::Changsha
-143.248.55.62:5566::Denmark::Capital Region::Copenhagen
-42.193.19.171:20000::China::Shanghai::Huangpu
-59.62.196.162:20030::China::Yunnan::Jianshui
-139.198.19.29:50010::Hong Kong::Central and Western District::Hong Kong
-148.251.52.99:61953::Russia::Moscow::Moscow
-111.75.57.32:20011::China::Guangdong::Shenzhen
-182.111.75.178:20025::China::Hunan::Changsha
-125.141.139.197:5566::United States::Washington::Seattle
-94.130.171.189:10006::United Kingdom::England::London
-91.238.248.206:9050::United States::California::San Diego
-111.75.57.94:20009::China::Hubei::Wuhan
-113.0.71.246:7302::China::Heilongjiang::Harbin
-103.73.74.178:1080::Indonesia::West Java::Balongsari
-111.75.57.47:20032::China::Beijing::Beijing
-175.24.235.242:7891::United States::Oregon::Portland
-111.75.57.175:20032::China::Guangdong::Shenzhen
-218.207.218.21:7302::China::Fujian::Fuzhou
-159.69.153.169:5566::Germany::Bavaria::Bischberg
-59.62.244.253:20015::China::Jiangsu::Qinnan
+61.180.28.254:20012::China::Tianjin::Tianjin
+61.180.29.60:20025::China::Hunan::Hengyang
+111.75.57.47:20014::China::Fujian::Quanzhou
+121.226.122.147:20008::China::Henan::Shangqiu
+61.180.28.137:20012::China::Sichuan::Chengdu
+111.75.57.32:20001::China::Inner Mongolia Autonomous Region::Ulanqab
+111.75.57.106:20034::China::Hubei::Daye
+111.75.57.236:20020::China::Guangdong::Guangzhou
+61.180.29.228:20036::China::Sichuan::Deyang
+111.75.57.94:20025::China::Guangdong::Shenzhen
+111.75.57.94:20071::China::Hebei::Shijiazhuang
+223.100.29.20:7302::China::Beijing::Haidian
+221.214.109.166:7300::China::Shandong::Jinan
+58.18.36.61:7300::China::Inner Mongolia Autonomous Region::Ordos
+221.214.109.166:7302::China::Shandong::Jinan
+117.159.198.122:7302::China::Henan::Zhengzhou
+61.180.29.228:20008::China::Shanxi::Taiyuan
+111.47.10.107:7302::China::Hubei::Wuhan
+111.30.79.44:7302::China::Tianjin::Tianjin
+61.180.29.249:20007::China::Shanxi::Xiaodian
+111.75.57.47:20004::China::Shanghai::Pudong
+118.242.27.66:7300::China::Shanghai::Xuhui
+182.111.75.174:20014::China::Beijing::Beijing
+112.49.16.32:7302::Hong Kong::Tsuen Wan District::Tsuen Wan
+34.95.224.52:443::Brazil::São Paulo::Sao Paulo
+59.62.245.136:20012::China::Guizhou::Guiyang
+111.75.57.47:20006::China::Guangdong::Futian
+143.248.55.62:5566::United States::Washington::Seattle
+111.75.57.33:20008::China::Sichuan::Chenguang
+123.157.100.91:7302::China::Zhejiang::Hangzhou
+66.150.130.46:52488::United States::Washington::Seattle
+112.5.101.162:7300::Hong Kong::Tsuen Wan District::Tsuen Wan
+111.75.57.175:20032::China::Hunan::Changsha
+123.157.100.91:7300::China::Zhejiang::Hangzhou
+61.180.28.177:20004::China::Zhejiang::Hangzhou
+110.40.141.79:10808::Singapore::None::Queenstown Estate
+45.82.139.104:25896::Germany::Hesse::Limburg an der Lahn
+182.111.75.174:20010::China::Tianjin::Tianjin
+113.247.221.4:7302::China::Hunan::Changsha
+111.75.57.106:20015::China::Qinghai::Xining
 58.218.204.217:1088::Hong Kong::Kwun Tong::Kowloon Bay
-138.68.252.165:9050::United States::Washington::Seattle
-111.75.57.94:20012::China::Hunan::Hengyang
-218.205.124.54:7302::China::Zhejiang::Hangzhou
-111.75.57.32:20009::China::Jiangxi::Dunhou
-61.180.29.233:20034::China::Beijing::Beijing
+116.202.31.28:13497::Thailand::Bangkok::Saphan Sung
