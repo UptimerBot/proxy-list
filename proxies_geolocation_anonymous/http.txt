@@ -1,56 +1,63 @@
-168.8.209.253:8080::United States::Georgia::Alpharetta
-168.8.209.253:80::United States::Georgia::Alpharetta
 205.155.45.139:3128::United States::California::Gonzales
+168.8.209.253:8080::United States::Georgia::Alpharetta
 8.214.41.50:80::Singapore::None::Singapore
-103.145.35.30:8181::Indonesia::East Java::Sumberpasir
-213.32.75.44:9300::Switzerland::Zurich::Zurich
-190.210.8.92:8080::Argentina::Buenos Aires F.D.::Buenos Aires
-121.146.167.17:4003::South Korea::Seoul::Seoul
-45.169.148.11:999::Chile::Santiago Metropolitan::Santiago
-201.150.117.189:999::Mexico::Hidalgo::Actopan
-190.110.99.99:999::Chile::O'Higgins Region::Rancagua
+91.203.19.1:9999::Poland::Mazovia::Warsaw
+121.101.133.68:8080::Indonesia::Central Java::Klaten
+138.99.176.89:999::Peru::Lima::Lima
+45.169.170.1:3128::Argentina::La Pampa::Santa Rosa
+168.8.209.253:80::United States::Georgia::Alpharetta
+121.146.167.17:4003::South Korea::Seoul::Mapo-gu
+45.191.196.254:999::Peru::Lima::Lima
+14.160.32.23:8080::Vietnam::Hanoi::Hanoi
+45.228.52.41:999::Ecuador::Provincia de El Oro::Machala
+147.135.134.57:9300::Sweden::Stockholm County::Stockholm
+45.81.225.67:9058::Germany::North Rhine-Westphalia::Bonn
+177.234.212.71:999::Ecuador::Provincia de Santo Domingo de los Tsachilas::Santo Domingo de los Colorados
+103.205.183.18:55443::Bangladesh::Dhaka Division::Dhaka
+103.156.75.42:8181::Indonesia::Bali::Gianyar
+45.174.249.22:999::Mexico::Michoacán::Morelia
+191.97.9.189:999::Colombia::Bogota D.C.::Bogotá
+185.187.197.106:81::Russia::Moscow::Moscow
+212.174.44.151:8080::Turkey::Istanbul::Istanbul
+45.173.199.126:3128::Venezuela::Aragua::Cagua
+45.156.31.18:9090::Turkey::Istanbul::Istanbul
+187.102.236.161:999::Mexico::Chihuahua::Parral
+170.80.49.160:8080::Brazil::Pernambuco::Jaboatao dos Guararapes
+103.101.17.174:8080::Myanmar::Rangoon::Yangon
+201.77.108.130:999::Mexico::Chihuahua::Jose Mariano Jimenez
+45.174.79.117:999::Mexico::Chihuahua::Ciudad Delicias
+177.128.115.247:999::Chile::Santiago Metropolitan::Melipilla
+197.211.45.4:10000::Nigeria::Lagos::Lagos
 36.94.47.62:4480::Indonesia::Jakarta::Jakarta
-45.227.95.2:8085::Argentina::Buenos Aires::Lomas de Zamora
-180.250.153.130:53281::Indonesia::Central Java::Semarang
-103.255.242.115:8080::Indonesia::Yogyakarta::Yogyakarta
-183.91.0.121:3128::Vietnam::Hanoi::Hanoi
-138.117.85.97:999::Colombia::Departamento del Huila::Pitalito
-139.5.151.180:63123::Indonesia::Jakarta::Jakarta
-103.71.61.102:8080::India::Uttar Pradesh::Agra
-189.84.114.60:666::Brazil::Ceara::Baturite
-14.177.235.17:8080::Vietnam::Hanoi::Hanoi
-36.66.171.243:8080::Indonesia::Central Java::Surakarta
-131.72.69.41:45005::Brazil::Sergipe::Moita Bonita
-85.25.117.171:5566::Germany::North Rhine-Westphalia::Bonn
-85.25.4.28:5566::Germany::Land Berlin::Berlin
-103.36.35.135:8080::Indonesia::Jakarta::Jakarta
-190.119.195.34:8080::Peru::Lima region::La Victoria
-202.169.37.246:8080::Indonesia::Jakarta::Jakarta
-85.25.4.27:5566::Germany::Bavaria::Nuremberg
-103.41.212.227:44759::Bangladesh::Dhaka Division::Dhaka
-190.110.99.105:999::Chile::O'Higgins Region::Rancagua
-191.97.16.182:999::Venezuela::Distrito Federal::Caracas
-102.68.135.229:8080::Libya::Tripoli::Tripoli
-177.93.34.218:8080::Colombia::Bogota D.C.::Bogotá
-62.75.229.165:5566::Germany::Bavaria::Nuremberg
-191.241.186.243:45006::Brazil::Sergipe::Nossa Senhora da Gloria
-177.128.115.206:999::Chile::Santiago Metropolitan::Melipilla
-187.190.252.248:999::Mexico::Mexico City::Fuentes del Pedregal
-190.113.40.21:999::Dominican Republic::Nacional::Santo Domingo
-103.153.232.254:8080::Nepal::Lumbini Province::Lumbini
-85.25.119.113:5566::Germany::North Rhine-Westphalia::Bonn
-191.97.17.62:999::Venezuela::Distrito Federal::Caracas
-78.47.223.55:5566::Germany::Bavaria::Nuremberg
-189.201.241.129:999::Mexico::Baja California::Tijuana
-190.92.49.150:999::Honduras::Departamento de Yoro::Yoro
-45.156.29.128:9090::Turkey::Istanbul::Istanbul
-101.255.117.123:3128::Indonesia::West Java::Bekasi
-189.20.85.170:8080::Brazil::Sao Paulo::Sorocaba
-181.198.86.74:999::Ecuador::Provincia del Guayas::Guayaquil
-180.178.189.126:8080::Pakistan::Punjab::Lahore
-45.161.115.169:999::Chile::Coquimbo Region::Salamanca
-45.178.133.20:999::Chile::Maule Region::Curicó
-85.25.108.234:5566::Germany::Bavaria::Nuremberg
-103.199.156.41:40049::India::Uttar Pradesh::Moradabad
-200.85.42.194:999::Paraguay::Asuncion::Asunción
-61.9.48.169:1337::Philippines::Central Visayas::San Juan
+213.81.218.225:8080::Slovakia::Bratislava::Stupava
+188.138.90.226:5566::Germany::Land Berlin::Berlin
+93.180.221.205:8080::Iraq::Baghdad::Baghdad
+85.25.119.98:5566::Germany::Land Berlin::Berlin
+181.49.36.124:999::Colombia::Departamento de Narino::Tumaco
+190.217.14.173:999::Venezuela::Distrito Federal::Caracas
+186.3.38.201:999::Ecuador::Provincia del Guayas::Guayaquil
+85.25.198.20:5566::Germany::Land Berlin::Berlin
+91.231.233.124:11712::Russia::Moscow::Moscow
+202.150.150.211:8080::Indonesia::West Java::Banyusari
+190.221.33.10:999::Argentina::Buenos Aires::Piguee
+116.100.181.202:8080::Vietnam::Tinh GJong Nai::Bien Hoa
+85.25.99.106:5566::Germany::Free and Hanseatic City of Hamburg::Hamburg
+116.197.155.25:8080::India::Uttar Pradesh::Agra
+223.100.215.24:8080::China::Liaoning::Shenyang
+103.174.4.114:8080::Pakistan::Punjab::Rawalpindi
+185.58.17.97:8080::Ireland::Leinster::Clogherhead
+103.197.206.19:8080::Bangladesh::Rajshahi Division::Pabna Sadar
+154.236.162.41:1981::Egypt::Giza::Giza
+45.161.115.141:999::Chile::Coquimbo Region::Salamanca
+196.44.117.62:8080::Nigeria::Akwa Ibom State::Uyo
+139.5.151.182:63123::Indonesia::Jakarta::Jakarta
+181.48.23.250:8080::Colombia::Departamento del Valle del Cauca::Santiago de Cali
+102.223.49.74:8080::Chad::Lac Region::Bol
+190.119.166.36:999::Peru::Lima::Lima
+45.166.144.2:999::Chile::Santiago Metropolitan::Isla de Maipo
+181.115.67.3:999::Honduras::Departamento de Cortes::Cortes
+190.124.30.43:999::Venezuela::Zulia::Maracaibo
+186.67.26.182:999::Chile::Santiago Metropolitan::Santiago
+190.104.230.132:8082::Argentina::Buenos Aires::Baradero
+103.113.17.247:8080::Bangladesh::Dhaka Division::Dhaka
+190.221.33.11:999::Argentina::Buenos Aires::Piguee
