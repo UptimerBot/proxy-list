@@ -1,70 +1,44 @@
 205.155.45.139:3128::United States::California::Gonzales
-168.8.209.253:8080::United States::Georgia::Alpharetta
-190.90.83.225:999::Colombia::Bogota D.C.::Bogotá
-8.214.41.50:80::Singapore::None::Singapore
-103.154.24.18:8080::Indonesia::West Nusa Tenggara::Selong
-177.93.50.146:999::Colombia::Cundinamarca::Chia
-154.113.119.50:8080::Nigeria::Lagos::Somolu
-203.170.209.7:8081::Thailand::Khon Kaen::Khon Kaen
+168.8.209.253:80::United States::Georgia::Alpharetta
+107.173.156.247:8123::United Kingdom::England::London
+84.193.39.37:8118::Netherlands::North Holland::Amsterdam
 118.175.244.111:8080::Thailand::Bangkok::Samphanthawong
-131.255.59.91:9292::Brazil::Mato Grosso do Sul::Três Lagoas
-51.210.72.174:8118::United States::Washington::Seattle
-101.53.154.137:2007::France::Hauts-de-France::Gravelines
-121.146.167.17:4001::South Korea::Seoul::Seoul
-181.57.202.203:999::Colombia::Departamento de Santander::Barrancabermeja
-170.80.202.238:999::Dominican Republic::Provincia de Santiago::Santiago de los Caballeros
-185.82.99.5:9091::Lebanon::Mohafazat Liban-Nord::Tripoli
-103.11.106.209:8181::Indonesia::East Java::Ngawi
-182.176.164.41:8080::Pakistan::Punjab::Lahore
-175.101.14.115:84::India::Telangana::Hyderabad
-45.178.133.19:999::Chile::Maule Region::Curicó
-85.25.119.113:5566::United Kingdom::England::London
-157.100.56.180:999::Ecuador::Provincia de Loja::Loja
-103.207.3.9:83::India::Tamil Nadu::Tiruchi
-45.233.244.141:8083::Brazil::Pernambuco::Custodia
-187.102.209.132:999::Peru::Lima::Lima
-201.77.108.130:999::Mexico::Chihuahua::Jose Mariano Jimenez
-190.24.119.55:999::Colombia::Bogota D.C.::Bogotá
-154.64.211.145:999::Puerto Rico::Corozal::Corozal
-183.220.121.159:7890::Singapore::None::Singapore
-93.180.221.205:8080::Iraq::Baghdad::Baghdad
-181.209.99.218:999::Argentina::Salta::Cachi
-185.82.98.42:9091::Lebanon::Mohafazat Liban-Nord::Tripoli
-186.24.4.249:8080::Venezuela::Carabobo::Valencia
-103.160.201.192:8080::Indonesia::Jakarta::Jakarta
-180.180.171.123:8080::Thailand::Nonthaburi::Pak Kret
-177.128.44.130:6006::Brazil::Rio Grande do Sul::Sapiranga
-190.113.40.12:999::Dominican Republic::Nacional::Santo Domingo
-200.101.89.3:8080::Brazil::Mato Grosso do Sul::Campo Grande
-177.234.212.71:999::Ecuador::Provincia de Santo Domingo de los Tsachilas::Santo Domingo de los Colorados
-103.255.242.115:8080::Indonesia::Yogyakarta::Yogyakarta
-149.56.96.252:5566::France::Auvergne-Rhone-Alpes::Bourg-Saint-Maurice
-190.104.230.134:8082::Argentina::Buenos Aires::Baradero
-83.147.180.166:8080::Ireland::Munster::Clonmel
-200.8.190.45:999::Venezuela::Lara::Barquisimeto
-190.92.49.150:999::Honduras::Departamento de Yoro::Yoro
-45.7.177.195:34234::Brazil::Alagoas::Maceió
-190.13.84.172:8080::Colombia::Bogota D.C.::Bogotá
-201.150.117.128:999::Mexico::Hidalgo::Actopan
-45.174.79.117:999::Mexico::Chihuahua::Ciudad Delicias
-103.101.17.171:8080::Myanmar::Rangoon::Yangon
-45.169.148.11:999::Chile::Santiago Metropolitan::Santiago
-189.203.180.233:999::Mexico::Mexico City::Fuentes del Pedregal
-163.172.75.81:5566::Germany::North Rhine-Westphalia::Bonn
-170.244.210.110:999::Ecuador::Provincia del Guayas::Milagro
-103.108.61.42:8080::Bangladesh::Rajshahi Division::Bogra
-190.90.22.93:999::Colombia::Departamento del Cesar::La Jagua de Ibirico
-45.71.203.100:999::Ecuador::Provincia de Loja::Loja
-45.188.236.196:8080::Brazil::Pernambuco::Petrolina
-181.198.86.74:999::Ecuador::Provincia del Guayas::Guayaquil
-188.138.106.133:5566::United Kingdom::England::London
-45.174.249.21:999::Mexico::Michoacán::Morelia
-85.25.72.91:5566::Germany::North Rhine-Westphalia::Bonn
-85.25.201.22:5566::United Kingdom::England::London
-103.124.86.1:8080::India::West Bengal::Kolkata
-85.25.132.27:5566::Germany::Lower Saxony::Broitzem
-177.128.115.247:999::Chile::Santiago Metropolitan::Melipilla
-190.104.1.18:999::Bolivia::Departamento de Santa Cruz::Santa Cruz
-45.228.52.69:999::Ecuador::Provincia de El Oro::Machala
-85.25.93.136:5566::Germany::Land Berlin::Berlin
-62.75.229.77:5566::Germany::Free and Hanseatic City of Hamburg::Hamburg
+157.230.233.189:3007::Netherlands::North Holland::Amsterdam
+36.91.98.115:8181::Indonesia::West Java::Bogor
+51.79.50.31:9300::France::Auvergne-Rhone-Alpes::Bourg-Saint-Maurice
+218.185.234.197:8080::Australia::Victoria::Melbourne
+91.203.19.1:9999::Poland::Mazovia::Warsaw
+190.128.225.116:999::Paraguay::Asuncion::Asunción
+85.25.150.32:5566::Germany::North Rhine-Westphalia::Bonn
+190.119.195.34:8080::Peru::Lima region::La Victoria
+170.82.37.161:999::Honduras::Departamento de Copan::Santa Rosa de Copán
+103.156.145.49:84::India::Gujarat::Gandhinagar
+123.200.26.214:8080::Bangladesh::Chittagong::Chittagong
+85.25.195.177:5566::Germany::North Rhine-Westphalia::Bonn
+45.174.70.18:53281::Mexico::Sonora::Huatabampo
+131.100.51.18:999::Colombia::Departamento del Huila::Neiva
+85.25.91.156:5566::Germany::Lower Saxony::Broitzem
+62.75.229.165:5566::United Kingdom::England::London
+149.56.96.252:5566::Germany::North Rhine-Westphalia::Bonn
+183.88.210.77:8080::Thailand::Khon Kaen::Ban Kho
+45.173.199.126:3128::Venezuela::Aragua::Cagua
+62.138.3.125:5566::Germany::Baden-Württemberg::Karlsruhe
+85.25.201.22:5566::Germany::Thuringia::Bethenhausen
+165.16.66.89:8080::Libya::Tripoli::Tripoli
+223.100.215.25:8080::China::Liaoning::Shenyang
+85.25.4.27:5566::Germany::Bavaria::Nuremberg
+85.25.246.206:5566::United Kingdom::England::London
+190.110.99.106:999::Chile::O'Higgins Region::Rancagua
+200.37.240.130:999::Peru::Region de Huanuco::Huánuco
+85.25.111.162:5566::Germany::Lower Saxony::Broitzem
+182.253.244.134:8080::Indonesia::Yogyakarta::Sleman
+190.205.101.54:999::Venezuela::Carabobo::Valencia
+190.110.99.99:999::Chile::O'Higgins Region::Rancagua
+188.138.106.93:5566::Germany::Free and Hanseatic City of Hamburg::Hamburg
+190.221.33.10:999::Argentina::Buenos Aires::Piguee
+176.104.1.174:7777::Ukraine::Kyiv City::Kyiv
+176.104.3.226:7777::Ukraine::Kyiv City::Kyiv
+168.119.127.146:5566::Netherlands::North Holland::Amsterdam
+85.25.99.106:5566::Germany::Baden-Württemberg::Karlsruhe
+116.197.155.25:8080::India::Uttar Pradesh::Agra
+85.25.139.22:5566::Germany::Baden-Württemberg::Karlsruhe
