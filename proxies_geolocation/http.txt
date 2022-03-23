@@ -1,78 +1,38 @@
-131.100.51.250:999::Colombia::Departamento del Huila::Neiva
-200.58.87.195:8080::Bolivia::Departamento de La Paz::La Paz
-165.16.60.1:8080::Libya::Tripoli::Tripoli
-103.19.130.50:8080::Bangladesh::Dhaka Division::Dhaka
-165.16.5.109:1976::Libya::Sha'biyat Banghazi::Benghazi
-95.217.84.60:8118::Luxembourg::Luxembourg::Luxembourg
-45.59.231.74:8080::United States::California::Santa Clarita
-103.5.232.145:8080::Bangladesh::Chittagong::Chittagong
-193.41.88.58:53281::Ukraine::Kyiv City::Kyiv
-202.136.165.22:80::Singapore::None::Queenstown Estate
-37.228.65.107:32052::Kazakhstan::Mangistauskaya Oblast'::Aktau
-122.3.2.56:8080::Philippines::Western Visayas::Bacolod City
-103.156.17.35:8181::Indonesia::West Java::Indramayu
-190.110.99.103:999::Chile::O'Higgins Region::Rancagua
 190.26.201.194:8080::Colombia::Departamento del Meta::Castilla La Nueva
-203.170.209.7:8081::Thailand::Bangkok::Phaya Thai
-77.236.248.237:8080::Russia::Moscow Oblast::Balashikha
-103.161.164.117:8181::Indonesia::West Java::Ciamis
-41.84.143.230:8081::Kenya::Nairobi Province::Thika
-85.25.226.242:5566::Germany::Bavaria::Nuremberg
-128.0.179.234:41258::Czechia::Hlavni mesto Praha::Prague
-46.229.187.169:53281::Russia::Yaroslavl Oblast::Yaroslavl
-95.171.5.144:1256::Russia::Moscow::Moscow
-181.224.255.42:8080::Peru::Lima::Lima
-77.236.252.133:1256::Russia::Moscow::Moscow
-190.216.69.5:8080::Argentina::Mendoza::Las Heras
-111.92.240.134:30598::Cambodia::Phnom Penh::Phnom Penh
-12.218.209.130:53281::United States::California::Milpitas
-202.43.72.201:8080::Indonesia::Jakarta::Kuningan Barat
-194.67.145.94:55555::Russia::Moscow Oblast::Domodedovo
-168.205.100.36:8080::Brazil::Rio de Janeiro::Petrópolis
-181.49.100.190:8080::Colombia::Departamento del Huila::Pitalito
-85.25.208.212:5566::Germany::North Rhine-Westphalia::Bonn
-190.110.99.100:999::Chile::O'Higgins Region::Rancagua
-177.93.50.146:999::Colombia::Cundinamarca::Chia
-200.60.12.43:999::Peru::Piura::Piura
-41.65.67.166:1981::Egypt::Giza::Giza
-46.249.123.172:6565::Iran::Kerman::Shahrak-e Pābedānā
-200.24.207.196:8080::Ecuador::Provincia del Guayas::Velasco Ibarra
-188.239.89.158:53281::Ukraine::Poltava Oblast::Kremenchug
-201.220.139.106:999::Honduras::Departamento de Francisco Morazan::Tegucigalpa
-190.89.128.156:8080::Ecuador::Provincia del Guayas::Guayaquil
-45.65.132.149:8080::Brazil::Minas Gerais::Umburatiba
-190.110.99.98:999::Chile::O'Higgins Region::Rancagua
-188.138.11.48:5566::Germany::Bavaria::Nuremberg
-113.176.81.31:55443::Vietnam::Ho Chi Minh::Ho Chi Minh City
+165.16.60.1:8080::Libya::Tripoli::Tripoli
+197.232.82.243:41890::Kenya::Nairobi Province::Nairobi
+182.53.50.2:3128::Thailand::Bangkok::Khwaeng Thung Song Hong
+202.136.165.22:80::Singapore::None::Queenstown Estate
+14.170.77.251:19132::Vietnam::Tinh Bac Giang::Bac Giang
+200.125.171.201:9991::Dominican Republic::Provincia de Santiago::Santiago de los Caballeros
+178.219.37.70:8080::Russia::Moscow Oblast::Khimki
+110.232.67.43:55443::Indonesia::North Sumatra::Medan
+177.55.207.38:8080::Brazil::Rio de Janeiro::Carmo
+8.242.207.164:999::Chile::Santiago Metropolitan::Santiago
+45.181.206.1:999::Colombia::Departamento de Cordoba::Montería
+178.134.41.246:8080::Georgia::Imereti::Zestaponi
+190.217.7.73:999::Venezuela::Distrito Federal::Caracas
+203.153.125.245:8080::Indonesia::Banten::Tangerang
+45.188.236.196:8080::Brazil::Pernambuco::Petrolina
+5.131.243.10:8080::Russia::Novosibirsk Oblast::Novosibirsk
+165.16.71.1:1981::Libya::Tripoli::Tripoli
+185.82.98.2:9091::Lebanon::Mohafazat Liban-Nord::Tripoli
+190.128.231.146:8080::Paraguay::Asuncion::Asunción
+194.233.69.90:443::Singapore::None::Singapore
+103.148.187.40:8080::Hong Kong::Sai Kung District::Tseung Kwan O
+190.221.33.10:999::Argentina::Buenos Aires::Piguee
+113.177.48.183:19132::Vietnam::Hanoi::Hanoi
+203.193.131.74:3128::India::Odisha::Raurkela
+138.117.84.240:999::Colombia::Departamento del Huila::Pitalito
+103.1.104.14:8080::Malaysia::Kuala Lumpur::Kuala Lumpur
+1.186.245.226:1111::India::Maharashtra::Navi Mumbai
 200.105.215.18:33630::Bolivia::Departamento de La Paz::La Paz
-103.59.176.154:8080::Bangladesh::Dhaka Division::Dhaka
-187.44.1.41:8080::Brazil::Minas Gerais::Montes Claros
-43.224.8.14:6666::India::Gujarat::Surendranagar
-201.120.27.15:53281::Mexico::Mexico City::Mexico City
+187.62.67.166:45005::Brazil::Sergipe::Aracaju
+77.236.237.177:8080::Russia::Moscow::Moscow
 20.105.253.176:8080::Netherlands::North Holland::Amsterdam
-182.253.93.4:53281::Indonesia::Jakarta::Jakarta
-91.202.240.208:51678::Ukraine::Lviv Oblast::Lviv
-45.156.31.16:9090::Turkey::Istanbul::Istanbul
-185.230.4.233:55443::Bulgaria::Sofia-Capital::Sofia
-95.165.163.188:60103::Russia::Moscow::Moscow
-200.111.182.6:443::Chile::Santiago Metropolitan::Santiago
-201.20.110.54:55443::Brazil::Rio Grande do Norte::Parnamirim
-188.138.90.226:5566::Germany::Bavaria::Nuremberg
-190.145.200.126:53281::Colombia::Bogota D.C.::Bogotá
-190.90.154.197:999::Colombia::Bogota D.C.::Bogotá
-85.25.201.22:5566::Germany::North Rhine-Westphalia::Bonn
-190.7.58.55:3128::Argentina::Buenos Aires F.D.::Buenos Aires
-92.207.253.226:38157::United Kingdom::England::Newbury
-65.20.191.201:80::Iraq::Basra::Basrah
-45.122.233.76:55443::Vietnam::Hanoi::Hanoi
-85.25.195.177:5566::Germany::Bavaria::Nuremberg
-202.182.57.10:8080::Indonesia::West Java::Bogor
-47.254.90.125:80::United States::California::Minkler
-118.163.120.181:58837::Taiwan::Taipei City::Taipei
-116.0.54.30:8080::Pakistan::Punjab::Lahore
-85.117.54.161:8080::Georgia::Imereti::Zestaponi
-183.88.210.77:8080::Thailand::Nonthaburi::Pak Kret
-84.53.247.204:53281::Russia::Vladimirskaya Oblast'::Vladimir
-47.88.7.115:3129::United States::California::San Mateo
-103.36.35.135:8080::Indonesia::Jakarta::Jakarta
-103.114.10.250:8080::Bangladesh::Chittagong::Jahanabad
+187.62.195.145:8080::Brazil::Minas Gerais::Montes Claros
+80.90.130.22:8888::Czechia::South Moravian::Mikulov
+45.229.205.124:55555::Argentina::Buenos Aires::Dock Sud
+85.25.226.242:5566::Germany::North Rhine-Westphalia::Bonn
+45.175.160.34:999::Argentina::Mendoza::Tunuyan
+109.72.239.54:41890::Russia::Moscow::Moscow
