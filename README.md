@@ -3,6 +3,7 @@
 A list of scrapped public proxies that is updated every 30 minutes.
 
 [![proxy-list-scraper](https://github.com/UptimerBot/proxy-list/actions/workflows/main.yml/badge.svg)](https://github.com/UptimerBot/proxy-list/actions/workflows/main.yml)
+[![Update frequency](https://img.shields.io/badge/Update%20frequency-every%2030%20minutes-brightgreen)](#)    
 
 
 ### Download
