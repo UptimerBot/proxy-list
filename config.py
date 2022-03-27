@@ -45,12 +45,14 @@ HTTP_SOURCES = (
     "https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt",
     "https://raw.githubusercontent.com/sunny9577/proxy-scraper/master/proxies.txt",
     "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt",
-    "https://raw.githubusercontent.com/UserR3X/proxy-list/main/http%2Bs.txt",
     "https://raw.githubusercontent.com/Volodichev/proxy-list/main/http.txt",
     "https://www.proxy-list.download/api/v1/get?type=http",
     "https://www.proxy-list.download/api/v1/get?type=https",
     "https://www.proxyscan.io/download?type=http",
     "https://www.proxyscan.io/download?type=https",
+    "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt",
+    "https://raw.githubusercontent.com/User-R3X/proxy-list/main/online/http.txt",
+    "https://raw.githubusercontent.com/User-R3X/proxy-list/main/online/https.txt",
 )
 SOCKS4 = True
 SOCKS4_SOURCES = (
@@ -63,6 +65,8 @@ SOCKS4_SOURCES = (
     "https://raw.githubusercontent.com/UserR3X/proxy-list/main/socks4.txt",
     "https://www.proxy-list.download/api/v1/get?type=socks4",
     "https://www.proxyscan.io/download?type=socks4",
+    "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks4.txt",
+    "https://raw.githubusercontent.com/User-R3X/proxy-list/main/online/socks4.txt",
 )
 SOCKS5 = True
 SOCKS5_SOURCES = (
@@ -77,4 +81,6 @@ SOCKS5_SOURCES = (
     "https://raw.githubusercontent.com/UserR3X/proxy-list/main/socks5.txt",
     "https://www.proxy-list.download/api/v1/get?type=socks5",
     "https://www.proxyscan.io/download?type=socks5",
+    "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks5.txt",
+    "https://raw.githubusercontent.com/User-R3X/proxy-list/main/online/socks5.txt",
 )
