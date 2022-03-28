@@ -1,46 +1,71 @@
-205.155.45.139:3128::United States::California::Gonzales
-138.43.105.144:80::United States::Texas::Allen
-168.8.209.253:8080::United States::Georgia::Alpharetta
 190.26.201.194:8080::Colombia::Departamento del Meta::Castilla La Nueva
-172.104.48.219:8080::Singapore::None::Singapore
-212.80.213.6:8080::Thailand::Nonthaburi::Nonthaburi
-121.29.7.1:8443::China::Hebei::Baoding
-176.196.250.86:3128::Russia::Kemerovo Oblast::Leninsk-Kuznetsky
-66.94.97.238:443::United States::New York::New York
-27.123.185.38:8080::Fiji::Central::Suva
-200.111.120.186:999::Chile::Santiago Metropolitan::Santiago
-60.21.141.190:9999::China::Liaoning::Dandong
-203.192.217.11:8080::India::National Capital Territory of Delhi::Delhi
-190.12.95.170:47029::Peru::Lima region::Independencia
-102.68.135.129:8080::Libya::Tripoli::Tripoli
-121.156.109.108:8080::South Korea::Gyeonggi-do::Seongnam-si
-24.43.140.138:8080::United States::California::Palm Springs
-181.78.20.45:999::Colombia::Quindio Department::Armenia
-80.66.81.35:53281::Ukraine::Odessa::Odessa
-37.29.80.161:8080::Russia::Novosibirsk Oblast::Novosibirsk
-66.94.120.161:443::United States::Washington::Seattle
-149.34.7.65:8080::Spain::Catalonia::Barcelona
-103.216.82.19:6666::India::Rajasthan::Udaipur
-188.138.89.50:5566::Germany::Bavaria::Nuremberg
-47.51.51.190:8080::United States::California::Glendale
-181.129.201.170:999::Colombia::Departamento de Bolivar::Cartagena
-89.216.52.195:8080::Serbia::Belgrade::Lazarevac
-222.216.37.138:808::China::Guangxi::Lilancun
-103.87.212.141:80::Bangladesh::Dhaka Division::Dhaka
-181.78.15.105:999::Colombia::Antioquia::Medellín
-211.136.128.154:53281::China::Shanghai::Changning
-186.96.50.39:999::Mexico::Mexico City::Fuentes del Pedregal
-180.180.123.40:8080::Thailand::Pathum Thani::Pathum Thani
-202.162.37.165:8080::Indonesia::Central Java::Kebumen
-116.206.243.50:80::Indonesia::East Java::Rowotengu
-182.253.189.244:8080::Indonesia::Jakarta::Jakarta
-45.169.128.149:8080::Brazil::Minas Gerais::Rio Novo
-185.32.6.131:8090::Poland::West Pomerania::Szczecin
-181.13.3.154:999::Argentina::Chaco::Quitilipi
-190.152.5.17:39888::Ecuador::Provincia del Guayas::Guayaquil
-103.73.75.69:8080::Indonesia::West Java::Karawang
+205.155.45.139:3128::United States::California::Gonzales
+45.32.83.231:3128::United States::California::Los Angeles
+168.8.209.253:8080::United States::Georgia::Alpharetta
+171.103.58.122:8080::Thailand::Bangkok::Bangkok
+79.175.51.203:3128::Russia::Nizhny Novgorod Oblast::Nizhniy Novgorod
+36.94.142.163:8000::Indonesia::East Java::Sidoarjo
+45.169.163.233:999::Chile::Santiago Metropolitan::Melipilla
+181.78.27.225:999::Paraguay::Asuncion::Asunción
+119.4.167.141:80::China::Sichuan::Chengdu
+89.250.152.76:8080::Russia::Tyumen’ Oblast::Tyumen
 165.16.60.1:8080::Libya::Tripoli::Tripoli
-190.128.231.146:8080::Paraguay::Asuncion::Asunción
-12.218.209.130:53281::United States::California::Milpitas
-103.159.200.3:8080::India::Maharashtra::Kolhapur
-170.0.86.148:999::Argentina::Misiones::Andresito
+190.113.42.73:999::Dominican Republic::Provincia de Santo Domingo::Santo Domingo Este
+190.107.224.150:3128::Chile::Santiago Metropolitan::Santiago
+103.169.186.83:8080::Indonesia::East Java::Pasuruan
+49.231.174.182:80::Thailand::Bangkok::Nong Chok
+202.43.190.10:53128::Indonesia::Jakarta::Jakarta
+191.255.227.88:8080::Brazil::Sao Paulo::São Paulo
+167.172.239.13:3128::United States::New Jersey::Clifton
+5.58.58.209:8080::Ukraine::Ternopil Oblast::Ternopil
+103.145.142.54:80::Indonesia::East Java::Tamiajeng
+170.79.224.243:9090::Brazil::Minas Gerais::Patrocinio
+103.69.36.38:8080::India::Uttar Pradesh::Ghaziabad
+200.32.80.56:999::Colombia::Departamento de Narino::Tuquerres
+184.95.0.218:8181::United States::Virginia::Ashburn
+186.248.89.6:5005::Brazil::Minas Gerais::Ibirite
+103.11.23.0:8085::Indonesia::Jakarta::Kuningan Barat
+138.219.216.146:999::Argentina::Misiones::Campo Viera
+188.163.170.130:41209::Ukraine::Lvivska Oblast::Lviv
+210.5.10.87:53281::China::Beijing::Beijing
+121.29.7.1:8443::China::Hebei::Baoding
+190.120.186.4:999::Argentina::Buenos Aires::Florencio Varela
+43.224.10.31:6666::India::Gujarat::Surat
+61.247.51.155:8080::Indonesia::Jakarta::Jakarta
+206.161.97.5:31337::United States::Virginia::Ashburn
+81.8.52.78:9090::Turkey::Istanbul::Istanbul
+103.129.3.246:83::India::Odisha::Balianta
+66.211.155.34:8080::United States::New Hampshire::Milford
+81.163.57.147:41258::Russia::Dagestan::Makhachkala
+190.61.82.170:999::Panama::Provincia de Panama::Panama City
+103.105.228.134:8080::India::Maharashtra::Mumbai
+103.242.105.86:3128::Indonesia::Central Java::Banjarnegara
+95.87.14.245:8181::Bulgaria::Stara Zagora::Kazanlak
+45.171.144.235:8080::Brazil::Mato Grosso do Sul::Chapadao Do Sul
+182.253.72.120:8080::Indonesia::Central Java::Purwokerto
+116.0.54.30:8080::Pakistan::Punjab::Lahore
+190.113.40.237:999::Dominican Republic::Provincia de Santo Domingo::Santo Domingo Este
+36.95.245.5:8080::Indonesia::Jakarta::Jakarta
+77.236.237.241:1256::Russia::Moscow::Moscow
+121.101.131.142:9090::Indonesia::Yogyakarta::Yogyakarta
+139.196.90.48:22::China::Shanghai::Shanghai
+200.60.118.174:999::Peru::Lima::Lima
+47.88.7.115:3129::United States::California::San Mateo
+190.2.210.249:999::Colombia::Departamento de Narino::Pasto
+183.5.87.155:9797::China::Guangdong::Guangzhou
+110.44.119.71:8080::Nepal::Bagmati Province::Kathmandu
+188.138.106.143:5566::Germany::Bavaria::Nuremberg
+37.255.135.18:8080::Iran::Isfahan::Isfahan
+116.197.134.98:8080::Indonesia::Banten::South Tangerang
+176.56.107.98:44887::Spain::Valencia::Elche
+171.97.85.117:80::Thailand::Bangkok::Bangkok
+45.167.95.184:8085::Mexico::Querétaro::Querétaro
+182.253.73.130:80::Indonesia::Central Java::Purwokerto
+180.191.20.102:8080::Philippines::Cagayan Valley::Binarsang
+45.7.177.195:34234::Brazil::Alagoas::Maceió
+112.124.33.186:3128::China::Zhejiang::Hangzhou
+191.97.19.49:999::Venezuela::Distrito Federal::Caracas
+62.112.118.14:8080::Russia::Moscow::Moscow
+91.232.241.114:8080::Ukraine::Lviv Oblast::Lviv
+94.74.132.129:808::Iran::Fars::Shiraz
+181.115.66.235:999::Honduras::Departamento de Santa Barbara::Santa Barbara
