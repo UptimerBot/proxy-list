@@ -31,18 +31,18 @@ jobs:
         
       - name: Update date.txt
         run: |
-          date >| date.txt
+          date '+%F %H:%M %Z' >| date.txt
           
       - name: Update badge-date.json
         run: |
-          date '+{ "schemaVersion": 1, "label": "Last updated", "message": "%F %T %Z", "color": "brightgreen" }' >| badge-date.json
+          date '+{ "schemaVersion": 1, "label": "Last updated", "message": "%F %H:%M %Z", "color": "brightgreen" }' >| badge-date.json
           
       - name: Commit files
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "Proxy Scraper Bot"
           git add -A
-          git commit -m "Update Proxies (`date`)" -a
+          git commit -m "Update Proxies (`date '+%F %H:%M %Z'`)" -a
           git branch -u origin/main
           
       - name: Push changes
