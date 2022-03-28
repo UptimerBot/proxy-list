@@ -1,9 +1,12 @@
-205.155.45.139:3128::United States::California::Gonzales
 168.8.209.253:8080::United States::Georgia::Alpharetta
+168.8.209.253:80::United States::Georgia::Alpharetta
+205.155.45.139:3128::United States::California::Gonzales
 119.4.167.141:80::China::Sichuan::Chengdu
 218.67.94.23:5555::China::Fujian::Xiamen
-221.145.101.63:4003::South Korea::Seoul::Seoul
-190.221.33.10:999::Argentina::Buenos Aires::Piguee
-161.22.34.100:999::Venezuela::Mérida::Mérida
-216.176.187.99:8889::United States::California::Los Angeles
-190.110.99.106:999::Chile::O'Higgins Region::Rancagua
+119.82.24.56:2025::United States::New York::New York
+190.110.99.218:999::Chile::O'Higgins Region::Rancagua
+181.224.161.200:999::Colombia::Departamento del Valle del Cauca::Buenaventura
+186.154.211.107:999::Colombia::Bogota D.C.::Bogotá
+186.67.26.181:999::Chile::Santiago Metropolitan::Santiago
+132.255.210.126:999::El Salvador::Departamento de La Union::Santa Rosa de Lima
+182.253.108.51:40448::Indonesia::Central Java::Pemalang
