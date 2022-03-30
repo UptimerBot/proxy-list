@@ -1,25 +1,32 @@
 205.155.45.139:3128::United States::California::Gonzales
-168.8.209.253:8080::United States::Georgia::Alpharetta
-23.234.213.157:6666::United States::California::Santa Clarita
-165.16.60.1:8080::Libya::Tripoli::Tripoli
-8.214.41.50:80::Singapore::None::Singapore
-89.250.152.76:8080::Russia::Tyumen’ Oblast::Tyumen
-171.103.58.122:8080::Thailand::Bangkok::Bangkok
 168.8.209.253:80::United States::Georgia::Alpharetta
+168.8.209.253:8080::United States::Georgia::Alpharetta
+111.23.16.250:3128::China::Hunan::Changsha
+171.103.58.122:8080::Thailand::Bangkok::Bangkok
+165.16.60.1:8080::Libya::Tripoli::Tripoli
 121.29.7.1:8443::China::Hebei::Baoding
-2.188.166.25:3128::Iran::Tehran::Tehran
 119.4.167.141:80::China::Sichuan::Chengdu
-107.173.156.247:8123::United States::California::San Diego
-181.78.21.174:999::Colombia::Bogota D.C.::Chapinero
-186.154.211.107:999::Colombia::Bogota D.C.::Bogotá
-190.110.99.104:999::Chile::O'Higgins Region::Rancagua
-201.20.100.142:53281::Brazil::Ceara::Fortaleza
-125.163.161.250:8080::Indonesia::Central Java::Semarang
-203.176.135.30:8080::Cambodia::Phnom Penh::Phnom Penh
-138.43.105.144:80::United States::Texas::Allen
-188.138.11.39:5566::Germany::Land Berlin::Berlin
-190.61.46.15:8080::Colombia::Atlántico::Barranquilla
-177.91.98.252:8080::Brazil::Bahia::Bom Jesus da Lapa
-195.138.73.54:44017::Ukraine::Odessa::Odessa
-206.62.153.9:8080::Palestine::Gaza::Gaza
-85.25.72.91:5566::Germany::Bavaria::Nuremberg
+89.250.152.76:8080::Russia::Tyumen’ Oblast::Tyumen
+62.75.229.167:5566::Germany::North Rhine-Westphalia::Bonn
+190.8.38.83:999::Dominican Republic::Provincia de La Romana::Boca Chica
+8.214.41.50:80::Singapore::None::Singapore
+45.173.199.126:3128::Venezuela::Aragua::Cagua
+202.43.190.10:53128::Indonesia::Jakarta::Jakarta
+2.188.166.26:3128::Iran::Tehran::Tehran
+1.186.40.35:1111::India::Tamil Nadu::Attur
+147.75.113.231:8080::Colombia::Departamento del Choco::Quibdó
+74.114.232.162:8080::United States::Indiana::Lake Station
+1.179.136.98:8080::Thailand::Chai Nat::Sankhaburi
+45.32.83.231:3128::United States::California::Los Angeles
+181.143.191.138:999::Colombia::Bogota D.C.::Bogotá
+45.181.207.129:999::Colombia::Departamento de Cordoba::Montería
+95.161.188.246:38302::Russia::Tatarstan Republic::Kazan’
+103.39.49.12:80::Indonesia::West Java::Cirebon
+38.123.207.249:999::Mexico::México::Mexico City
+14.170.154.10:8080::Vietnam::Tinh Lang Son::Lang Son
+216.176.187.99:8889::United States::California::Los Angeles
+216.176.187.99:39825::United States::California::Los Angeles
+170.79.235.3:999::Chile::Santiago Metropolitan::Buin
+190.221.33.11:999::Argentina::Buenos Aires::Piguee
+85.25.226.242:5566::Germany::Bavaria::Nuremberg
+14.192.3.161:83::India::Telangana::Hyderabad
