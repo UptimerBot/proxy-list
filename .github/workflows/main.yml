@@ -27,7 +27,7 @@ jobs:
        # env: 
        #   EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
        #   EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
-        run: python main.py
+        run: python main.py | tee output.log
         
       - name: Update date.txt
         run: |
