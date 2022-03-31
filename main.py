@@ -286,7 +286,7 @@ class ProxyScraperChecker:
         self.c.print(
             "[green]Proxy folders have been created in the "
             + f"{self.path.absolute()} folder."
-            + "\nThank you for using proxy-scraper-checker :)"
+            
         )
 
     @property
