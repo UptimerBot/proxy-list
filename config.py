@@ -3,7 +3,7 @@
 # How many seconds to wait for the proxy to make a connection.
 # The higher this number, the longer the check will take
 # and the more proxies you will receive.
-TIMEOUT = 5
+TIMEOUT = 6
 
 # Maximum concurrent connections.
 # Don't set higher than 900, please.
@@ -53,6 +53,9 @@ HTTP_SOURCES = (
     "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt",
     "https://raw.githubusercontent.com/User-R3X/proxy-list/main/online/http.txt",
     "https://raw.githubusercontent.com/User-R3X/proxy-list/main/online/https.txt",
+    "https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt",
+    "https://raw.githubusercontent.com/rdavydov/proxy-list/main/proxies/http.txt",
+    "https://raw.githubusercontent.com/mmpx12/proxy-list/master/http.txt",
 )
 SOCKS4 = True
 SOCKS4_SOURCES = (
