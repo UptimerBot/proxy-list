@@ -1,20 +1,25 @@
-205.155.45.139:3128::United States::California::Gonzales
 168.8.209.253:8080::United States::Georgia::Alpharetta
-45.174.249.20:999::Mexico::Michoacán::Morelia
-95.216.194.46:1081::Vietnam::Ho Chi Minh::Ho Chi Minh City
-200.32.80.56:999::Colombia::Departamento de Narino::Tuquerres
-85.25.93.136:5566::Germany::Saxony::Dresden
-85.25.155.103:5566::Germany::Bavaria::Nuremberg
-161.22.34.120:8080::Venezuela::Distrito Federal::Caracas
-62.75.236.132:5566::Germany::North Rhine-Westphalia::Bonn
-191.97.1.91:999::Colombia::Departamento del Putumayo::Orito
-200.55.3.123:999::Argentina::Mendoza::Mendoza
-110.232.64.90:8080::Indonesia::North Sumatra::Medan
-145.40.73.107:80::Singapore::None::Singapore
-103.148.195.22:8080::Indonesia::Bali::Tabanan
-124.205.155.158:9090::China::Beijing::Beijing
-145.40.73.107:10003::Singapore::None::Singapore
+168.8.209.253:80::United States::Georgia::Alpharetta
+205.155.45.139:3128::United States::California::Gonzales
+149.56.96.252:9300::United States::Nevada::Las Vegas
+114.249.116.203:9000::China::Beijing::Beijing
+190.221.33.11:999::Argentina::Buenos Aires::Piguee
+170.79.91.203:999::Colombia::Departamento de Risaralda::Choco
+62.75.219.49:5566::Germany::Bavaria::Nuremberg
+62.75.229.155:5566::Germany::Bavaria::Nuremberg
+85.25.119.98:5566::Germany::Bavaria::Nuremberg
+62.75.229.51:5566::Germany::North Rhine-Westphalia::Düsseldorf
+45.181.206.1:999::Colombia::Departamento de Cordoba::Montería
+101.51.55.153:8080::Thailand::Bangkok::Bangkok
+85.25.226.242:5566::Germany::Bavaria::Nuremberg
 152.200.138.119:999::Colombia::Departamento del Magdalena::Florencia
-145.40.73.107:9443::Singapore::None::Singapore
-216.176.187.99:30022::United States::Kentucky::Lexington
-45.185.206.73:999::Argentina::Neuquen::Neuquén
+117.121.204.9:34002::Indonesia::Central Java::Purwokerto
+181.188.206.42:999::Ecuador::Provincia del Azuay::San Felipe de Ona
+62.75.236.132:5566::Germany::North Rhine-Westphalia::Bonn
+222.211.240.105:7890::Hong Kong::Wan Chai::Wanchai
+202.168.69.227:8080::Malaysia::Selangor::Cyberjaya
+138.118.200.112:999::Venezuela::Zulia::San Francisco
+85.25.132.27:5566::Germany::North Rhine-Westphalia::Bonn
+200.114.84.76:8080::Argentina::Buenos Aires::La Plata
+85.25.201.22:5566::Germany::North Rhine-Westphalia::Bonn
+167.114.96.27:9300::United States::Washington::Seattle
