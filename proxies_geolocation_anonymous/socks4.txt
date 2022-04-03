@@ -1,42 +1,58 @@
-173.195.27.156:10091::United States::Oklahoma::Lawton
-93.175.194.155:3629::Ukraine::Ivano-Frankivsk Oblast::Ivano-Frankivsk
-188.255.245.173:1080::Serbia::Belgrade::Belgrade
-188.255.245.229:1080::Serbia::Belgrade::Belgrade
-185.89.65.165:33744::Poland::Łódź Voivodeship::Tomaszów Mazowiecki
-170.246.85.106:37163::Ecuador::Provincia del Azuay::Cuenca
-87.121.76.86:4145::Bulgaria::Sliven::Sliven
-177.105.68.220:4153::Brazil::Pernambuco::Recife
-178.212.48.71:1080::Poland::Lubusz::Międzyrzecz
-200.41.60.33:4153::Argentina::Cordoba::Córdoba
+173.195.27.153:10091::United States::Oklahoma::Lawton
+94.136.157.73:60030::Slovakia::Kosice::Košice
+89.25.23.211:4153::Bulgaria::Plovdiv::Asenovgrad
+187.189.81.144:4153::Mexico::Yucatán::Mérida
+103.227.252.81:1080::Indonesia::Jakarta::Jakarta
+117.102.115.156:4153::Indonesia::Jakarta::Jakarta
+170.84.50.225:4153::Brazil::Rio de Janeiro::Rio de Janeiro
+201.157.254.134:4145::Brazil::Bahia::Salvador
+177.87.230.31:43573::Brazil::Santa Catarina::Tubarao
+213.5.120.255:3629::Russia::Moscow::Moscow
+1.9.167.36:60489::Malaysia::Kuala Lumpur::Kuala Lumpur
+202.164.211.25:4153::Bangladesh::Dhaka Division::Dhaka
+85.132.8.106:4153::Azerbaijan::Baku City::Baku
+93.190.141.62:9050::Germany::North Rhine-Westphalia::Bonn
+170.84.51.235:55731::Brazil::Rio de Janeiro::Rio de Janeiro
+36.95.235.19:3629::Indonesia::Jakarta::Jakarta
+180.211.173.177:1080::Bangladesh::Dhaka Division::Bhairab Bazar
+46.225.225.196:4145::Iran::Hamadan Province::Hamadan
+103.199.97.5:39825::India::National Capital Territory of Delhi::New Delhi
+170.84.205.140:4153::Argentina::Santa Fe::Melincue
 184.105.133.1:48324::United States::California::Fremont
-45.125.222.125:47239::Bangladesh::Dhaka Division::Dhaka
-103.221.253.145:38247::Bangladesh::Dhaka Division::Dhaka
-194.67.150.254:56302::Russia::Moscow::Moscow
-103.36.102.129:4153::Bangladesh::Dhaka Division::Dhaka
-201.148.23.131:1080::Mexico::Mexico City::Mexico City
-8.42.71.225:39593::United States::Colorado::Broomfield
-138.68.18.219:9050::Germany::Land Berlin::Berlin
-103.116.202.241:5678::Indonesia::Jakarta::Jakarta
-103.156.146.28:5678::Indonesia::Central Java::Krikilan
-202.162.219.12:1080::Indonesia::West Java::Pamulang
-103.70.206.17:59311::India::Uttarakhand::Gadarpur
-138.68.252.165:9050::Germany::Land Berlin::Berlin
-174.108.154.2:32940::United States::North Carolina::Charlotte
+103.36.35.251:5678::Indonesia::Jakarta::Jakarta
+81.162.199.65:4153::Czechia::Zlín::Valasske Klobouky
+176.235.99.12:5678::Turkey::Istanbul::Istanbul
 176.58.17.1:4153::Poland::West Pomerania::Choszczno
-212.200.89.11:4153::Serbia::Central Serbia::Belgrade
-5.153.140.180:4145::Ukraine::Donetsk Oblast::Avdiivka
-212.174.44.44:1080::Turkey::Gaziantep::Gaziantep
-177.86.64.253:3629::Brazil::Sao Paulo::Pirapora do Bom Jesus
-138.99.95.9:4145::Brazil::Ceara::Baturite
-117.103.5.134:60113::Indonesia::Yogyakarta::Yogyakarta
-168.196.246.162:5678::Argentina::Buenos Aires F.D.::Buenos Aires
-195.158.223.133:4153::Ukraine::Luhansk::Luhansk
-103.115.255.102:36331::Bangladesh::Dhaka Division::Savar Upazila
-45.7.177.226:39867::Brazil::Alagoas::Maceió
-125.141.133.46:5566::Poland::Mazovia::Warsaw
-139.255.97.156:14888::Indonesia::Jakarta::Jakarta
-103.35.111.101:4145::Bangladesh::Dhaka Division::Dhaka
-138.197.208.39:9050::Germany::Bavaria::Nuremberg
-125.141.139.112:5566::United States::Washington::Seattle
-167.86.93.4:23547::Germany::Bavaria::Nuremberg
+83.168.84.142:4153::Poland::West Pomerania::Trzeszczyn
+157.119.201.231:1080::India::Maharashtra::Mumbai
+201.76.179.249:31337::Brazil::Rio de Janeiro::Rio de Janeiro
+115.75.160.196:5678::Vietnam::Tinh Kien Giang::Phu Quoc
+45.234.100.112:1080::Brazil::Pernambuco::Recife
+103.121.215.34:40927::Indonesia::Jakarta::Jakarta
+202.75.97.82:38238::Indonesia::Jakarta::Jakarta
+103.5.63.212:40544::Philippines::Central Luzon::San Jose del Monte
+103.211.8.201:52616::India::Telangana::Hyderabad
+27.123.1.33:4153::Indonesia::Jakarta::Jakarta
+163.53.205.225:4153::India::Tamil Nadu::Arappakkam
+103.166.125.13:5678::Indonesia::East Java::Keputih
+110.76.129.229:5678::Bangladesh::Dhaka Division::Dhaka
+183.6.50.70:4153::China::Guangdong::Guangzhou
+202.129.52.173:4153::Thailand::Bangkok::Samphanthawong
+102.64.117.254:4145::Congo Republic::Likouala::Impfondo
 143.248.55.62:5566::United States::Washington::Seattle
+159.69.153.169:5566::Romania::Bucharest::Bucharest
+85.208.76.1:4153::Italy::Lazio::Cerveteri
+46.227.37.9:1088::Poland::Pomerania::Sulmin
+14.232.161.29:10801::Vietnam::Hanoi::Hanoi
+45.125.222.125:47239::Bangladesh::Dhaka Division::Dhaka
+188.255.244.201:1080::Serbia::Belgrade::Belgrade
+45.235.148.5:3629::Brazil::Sao Paulo::Mogi Guacu
+139.255.97.156:14888::Indonesia::Jakarta::Jakarta
+103.36.102.129:4153::Bangladesh::Dhaka Division::Dhaka
+189.2.127.244:4153::Brazil::Sao Paulo::São Paulo
+195.158.223.131:4153::Ukraine::Luhansk::Luhansk
+168.121.56.65:14880::Argentina::Buenos Aires::Luján
+200.85.137.216:4153::Argentina::Jujuy::Humahuaca
+167.86.87.14:16429::Germany::Bavaria::Nuremberg
+138.197.208.39:9050::Sweden::Stockholm County::Stockholm
+49.12.224.173:15119::United States::Utah::Salt Lake City
