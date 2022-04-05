@@ -1,54 +1,66 @@
-205.155.45.139:3128::United States::California::Gonzales
-168.8.209.253:80::United States::Georgia::Alpharetta
 168.8.209.253:8080::United States::Georgia::Alpharetta
-107.152.44.198:3128::United States::Illinois::Glenview
-51.254.228.133:8000::Spain::Madrid::Madrid
-37.187.121.221:1081::France::Hauts-de-France::Gravelines
-165.16.60.1:8080::Libya::Tripoli::Tripoli
-89.250.152.76:8080::Russia::Tyumen’ Oblast::Tyumen
-171.103.58.122:8080::Thailand::Bangkok::Bangkok
-178.159.40.19:8080::Russia::Moscow::Moscow
-160.16.142.244:3128::Japan::Tokyo::Tokyo
-120.194.55.139:6969::China::Henan::Zhengzhou
-103.137.91.250:8080::Laos::Vientiane Prefecture::Vientiane
-43.252.10.212:2222::Indonesia::Jakarta::Jakarta
+168.8.209.253:80::United States::Georgia::Alpharetta
 162.241.55.222:1081::United States::Utah::Provo
+89.250.152.76:8080::Russia::Tyumen’ Oblast::Tyumen
+205.155.45.139:3128::United States::California::Gonzales
+171.103.58.122:8080::Thailand::Bangkok::Bangkok
+110.168.213.89:8080::Thailand::Bangkok::Bangkok
+85.25.196.76:5566::Germany::Bavaria::Nuremberg
 68.183.81.71:80::None::None::None
-103.161.164.103:8181::Indonesia::West Java::Ciamis
-217.180.218.36:8080::United States::Michigan::Lansing
-191.97.16.176:999::Venezuela::Distrito Federal::Caracas
-188.133.153.143:8080::Russia::Moscow::Moscow
-36.66.124.193:3128::Indonesia::Banten::Tangerang
-85.25.119.221:5566::Germany::Saxony::Dresden
-191.102.64.147:999::Colombia::Bogota D.C.::Bogotá
-45.176.95.100:999::Dominican Republic::Provincia Sanchez Ramirez::Cotui
-186.47.83.126:8080::Ecuador::Provincia de Pichincha::Quito
-212.115.232.79:31280::Ukraine::Dnipropetrovsk Oblast::Dnipro
-52.82.95.78:3128::None::None::None
-150.129.151.42:6666::India::Gujarat::Ahmedabad
-77.236.243.39:1256::Russia::Moscow::Moscow
-186.125.59.8:46316::Argentina::Buenos Aires::Florentino Ameghino
-45.167.125.89:999::Colombia::Departamento del Cauca::Popayán
-103.19.58.158:3127::Indonesia::East Java::Banyuwangi
-87.249.9.193:8082::Russia::Moscow::Moscow
-95.154.64.101:8080::Russia::Primorskiy (Maritime) Kray::Vladivostok
-194.233.73.108:443::Singapore::Central Singapore::Singapore
-221.237.25.185:7890::China::Sichuan::Chengdu
-180.180.170.188:8080::Thailand::Bangkok::Khwaeng Thung Song Hong
-185.204.197.169:8080::Italy::Lazio::Rome
-85.25.100.47:5566::Germany::North Rhine-Westphalia::Bonn
-191.97.16.208:999::Venezuela::Distrito Federal::Caracas
-1.2.252.65:8080::Thailand::Bangkok::Khwaeng Thung Song Hong
-103.14.198.145:83::India::Karnataka::Davangere
-51.77.141.29:1081::France::Grand Est::Strasbourg
-153.126.179.216:8080::Japan::Ōsaka::Osaka
-45.225.184.206:999::Chile::Santiago Metropolitan::Melipilla
-103.120.250.45:8080::India::Maharashtra::Pune
-197.221.85.214:8080::Ghana::Greater Accra Region::Accra
-202.63.243.226:8080::Nepal::Bagmati Province::Kathmandu
-188.138.90.226:5566::Germany::North Rhine-Westphalia::Bonn
-190.2.210.250:999::Colombia::Departamento de Narino::Pasto
-188.120.250.16:1081::Russia::Khanty-Mansia::Raduzhny
-159.192.147.186:8080::Thailand::Bangkok::Samphanthawong
-182.16.163.202:3128::Indonesia::Jakarta::Jakarta
-110.78.114.161:8080::Thailand::Chiang Mai::Chiang Mai
+66.94.120.161:443::United States::Washington::Seattle
+85.25.119.241:5566::Germany::Thuringia::Bethenhausen
+103.216.82.19:6666::India::Rajasthan::Udaipur
+77.70.35.87:37475::Bulgaria::Sofia-Capital::Sofia
+177.136.32.214:45005::Brazil::Bahia::Salvador
+138.0.89.154:999::Colombia::Departamento de Narino::Pasto
+103.241.227.106:6666::India::Gujarat::Ahmedabad
+85.25.139.22:5566::Germany::North Rhine-Westphalia::Bonn
+181.49.100.190:8080::Colombia::Antioquia::Medellín
+190.119.195.34:8080::Peru::Lima region::La Victoria
+218.106.60.94:21080::China::Beijing::Jinrongjie
+37.59.50.50:8118::France::Hauts-de-France::Roubaix
+181.129.248.141:999::Colombia::Departamento del Valle del Cauca::Santiago de Cali
+190.185.116.161:999::Honduras::Departamento de Cortes::San Pedro Sula
+188.138.106.143:5566::Germany::Bavaria::Nuremberg
+189.203.180.233:999::Mexico::Mexico City::Mexico City
+79.120.177.106:8080::Hungary::Budapest::Budapest
+85.25.72.91:5566::Germany::North Rhine-Westphalia::Bonn
+178.252.141.194:8080::Iran::Tehran::Tehran
+45.235.15.15:999::Ecuador::Provincia de Los Rios::Babahoyo
+103.31.44.203:8080::Indonesia::Jakarta::Jakarta
+101.255.117.124:3128::Indonesia::West Java::Bekasi
+122.3.103.31:3128::Philippines::Metro Manila::Mandaluyong City
+200.116.198.180:32605::Colombia::Departamento de Caldas::Manizales
+172.104.48.219:8080::Singapore::Central Singapore::Singapore
+165.16.27.12:1981::Libya::Tripoli::Tripoli
+191.97.18.177:999::Venezuela::Distrito Federal::Caracas
+62.75.229.167:5566::Germany::North Rhine-Westphalia::Bonn
+212.42.116.161:8080::Kyrgyzstan::Gorod Bishkek::Bishkek
+111.222.6.84:7890::Taiwan::Taipei City::Taipei
+85.25.119.98:5566::Germany::North Rhine-Westphalia::Bonn
+165.16.25.66:9999::Libya::Wadi ash Shati'::Idri
+190.128.231.146:8080::Paraguay::Asuncion::Asunción
+112.78.170.250:8080::Indonesia::Jakarta::Jakarta
+181.129.243.100:999::Colombia::Departamento del Valle del Cauca::Santiago de Cali
+82.142.175.146:8080::Russia::Moscow::Moscow
+36.66.19.10:8080::Indonesia::Jakarta::Jakarta
+95.0.219.234:8080::Turkey::Kayseri::Kayseri
+80.244.230.86:8080::Russia::Moscow::Moscow
+91.150.189.122:30389::Poland::Subcarpathia::Rzeszów
+190.124.30.43:999::Venezuela::Zulia::Maracaibo
+122.144.4.126:63123::Indonesia::West Java::Teluknaga
+202.6.227.174:3888::Indonesia::East Java::Surabaya
+5.134.221.58:41890::Russia::Moscow::Moscow
+185.47.50.116:443::Iran::Tehran::Tehran
+212.46.255.78:8080::Russia::Stavropol Kray::Stavropol
+186.46.168.44:8080::Ecuador::Provincia de Pichincha::Quito
+43.250.127.98:9001::Mongolia::Ulaanbaatar Hot::Ulan Bator
+45.224.153.39:999::Ecuador::Provincia de Esmeraldas::Esmeraldas
+114.79.146.137:8080::India::Maharashtra::Mumbai
+178.252.175.5:8080::Iran::Tehran::Tehran
+80.191.162.2:514::Iran::Khuzestan::Shahrestān-e Bandar-e Māhshahr
+177.71.92.134:8080::Brazil::Pernambuco::Petrolina
+74.114.232.162:8080::United States::Indiana::Lake Station
+186.83.28.190:999::Colombia::Bogota D.C.::Bogotá
+95.87.14.245:8181::Bulgaria::Stara Zagora::Kazanlak
+188.138.89.50:5566::Germany::Bavaria::Nuremberg
