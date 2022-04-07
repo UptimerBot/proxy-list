@@ -1,58 +1,63 @@
-174.64.199.82:4145::United States::Oklahoma::Oklahoma City
-72.206.181.103:4145::United States::Louisiana::Baton Rouge
-72.210.208.101:4145::United States::Louisiana::Monroe
-72.221.232.155:4145::United States::Oklahoma::Oklahoma City
-24.249.199.4:4145::United States::Florida::Pensacola
-98.170.57.231:4145::United States::Oklahoma::Oklahoma City
-72.195.114.169:4145::United States::Louisiana::Monroe
+72.206.181.123:4145::United States::Louisiana::Baton Rouge
 72.217.216.239:4145::United States::Arizona::Phoenix
+72.221.232.155:4145::United States::Oklahoma::Oklahoma City
 98.162.25.23:4145::United States::Oklahoma::Oklahoma City
 184.178.172.14:4145::United States::Oklahoma::Choctaw
-98.162.96.41:4145::United States::Oklahoma::Oklahoma City
-72.195.34.41:4145::United States::Louisiana::Baton Rouge
-72.195.114.184:4145::United States::Louisiana::Monroe
-98.175.31.195:4145::United States::Virginia::Norfolk
+72.206.181.103:4145::United States::Louisiana::Baton Rouge
 72.195.34.59:4145::United States::Louisiana::Baton Rouge
-72.195.34.42:4145::United States::Louisiana::Baton Rouge
-72.221.172.203:4145::United States::Louisiana::Monroe
-72.206.181.123:4145::United States::Louisiana::Baton Rouge
-24.249.199.12:4145::United States::Florida::Pensacola
-98.188.47.150:4145::United States::Oklahoma::Oklahoma City
-72.210.252.137:4145::United States::Louisiana::Monroe
-174.77.111.197:4145::United States::Oklahoma::Oklahoma City
-193.169.4.184:10801::Russia::Moscow Oblast::Reutov
+72.195.114.169:4145::United States::Louisiana::Monroe
 98.188.47.132:4145::United States::Oklahoma::Oklahoma City
-174.77.111.196:4145::United States::Oklahoma::Oklahoma City
-47.243.175.80:33670::Hong Kong::Central and Western District::Central
-192.252.209.155:14455::United States::Georgia::Atlanta
-174.64.199.79:4145::United States::Oklahoma::Oklahoma City
+72.221.172.203:4145::United States::Louisiana::Monroe
+72.195.114.184:4145::United States::Louisiana::Monroe
 98.162.96.52:4145::United States::Oklahoma::Oklahoma City
-116.98.60.23:1080::Vietnam::Da Nang::Da Nang
-101.71.121.196:7302::China::Zhejiang::Ningbo
-174.75.211.222:4145::United States::Oklahoma::Oklahoma City
-198.8.94.170:4145::United States::Georgia::Atlanta
-157.90.167.209:1080::Germany::Bavaria::Nuremberg
 184.181.217.210:4145::United States::Oklahoma::Oklahoma City
-184.178.172.28:15294::United States::Oklahoma::Choctaw
-137.184.136.135:3785::United States::New Jersey::North Bergen
-192.111.129.145:16894::United States::Georgia::Atlanta
-192.111.139.165:4145::United States::Georgia::Atlanta
-212.38.189.118:19887::United Kingdom::Scotland::Glasgow
-185.125.252.241:1080::Iran::Tehran::Tehran
-167.86.86.203:1080::Germany::Bavaria::Nuremberg
-192.111.137.34:18765::United States::Georgia::Atlanta
-192.111.137.35:4145::United States::Georgia::Atlanta
-101.53.158.48:9600::Germany::North Rhine-Westphalia::Bonn
+98.162.96.41:4145::United States::Oklahoma::Oklahoma City
+72.195.34.42:4145::United States::Louisiana::Baton Rouge
+174.64.199.82:4145::United States::Oklahoma::Oklahoma City
+72.210.252.137:4145::United States::Louisiana::Monroe
+24.249.199.12:4145::United States::Florida::Pensacola
+174.75.211.222:4145::United States::Oklahoma::Oklahoma City
+72.210.208.101:4145::United States::Louisiana::Monroe
+47.243.16.125:1080::Hong Kong::Central and Western District::Central
+174.77.111.196:4145::United States::Oklahoma::Oklahoma City
+72.195.34.41:4145::United States::Louisiana::Baton Rouge
+24.249.199.4:4145::United States::Florida::Pensacola
+174.64.199.79:4145::United States::Oklahoma::Oklahoma City
+98.175.31.195:4145::United States::Virginia::Norfolk
+116.105.217.162:1080::Vietnam::Tinh Quang Nam::Dien Ban
+116.105.208.163:1080::Vietnam::Tinh Quang Nam::Dien Ban
+98.188.47.150:4145::United States::Oklahoma::Oklahoma City
+5.144.135.117:1080::Iran::Tehran::Tehran
+112.54.33.47:7302::Hong Kong::Tsuen Wan District::Tsuen Wan
+60.190.78.218:7302::China::Beijing::Beijing
 192.252.220.92:17328::United States::California::Los Angeles
+185.200.37.118:10820::Turkey::Hatay::Antakya
+67.201.33.9:25280::United States::California::Buena Park
+98.170.57.231:4145::United States::Oklahoma::Oklahoma City
+103.159.221.135:5678::Indonesia::Banten::South Tangerang
+174.77.111.197:4145::United States::Oklahoma::Oklahoma City
+47.243.113.83:1080::Hong Kong::Central and Western District::Central
 47.101.176.176:10808::China::Shanghai::Shanghai
-103.120.135.229:33427::Cambodia::Phnom Penh::Phnom Penh
-192.111.139.163:19404::United States::Georgia::Atlanta
-167.172.155.178:53323::United States::New Jersey::North Bergen
-103.57.222.220:38282::Vietnam::Hanoi::Hanoi
-91.134.139.238:3080::France::Hauts-de-France::Gravelines
-123.31.12.41:17166::Vietnam::Hanoi::Hanoi
-58.18.36.61:7302::China::Inner Mongolia Autonomous Region::Hohhot
-61.178.99.43:7302::China::Gansu::Lanzhou
+47.243.184.125:17721::Hong Kong::Central and Western District::Central
+147.135.112.67:3081::United States::Virginia::Reston
+85.172.31.16:33427::Russia::Krasnodarskiy Kray::Krasnodar
+198.1.94.46:15456::United States::Utah::Provo
+161.97.158.118:1080::Germany::North Rhine-Westphalia::Düsseldorf
+159.65.106.46:9050::Ukraine::Kyiv City::Kyiv
+51.158.74.171:1080::France::Île-de-France::Paris
+117.131.253.166:7302::China::Tianjin::Tianjin
+95.0.206.51:10820::Turkey::Istanbul::Istanbul
+114.113.226.88:7890::None::None::None
+144.22.251.99:1080::Brazil::Sao Paulo::São Paulo
+137.184.192.243:34418::United States::New Jersey::North Bergen
+147.135.112.67:3080::United States::Virginia::Reston
+159.223.107.14:57197::United States::New Jersey::North Bergen
+143.248.55.62:5566::Netherlands::North Holland::Amsterdam
+60.10.10.171:7302::China::Beijing::Beijing
+212.38.189.118:8200::United Kingdom::Scotland::Glasgow
+223.65.208.62:7300::China::Zhejiang::Wenzhou
+103.216.82.19:6667::India::Rajasthan::Udaipur
+139.162.100.214:51968::Japan::Tokyo::Tokyo
 157.245.222.156:48473::United States::New Jersey::Clifton
-192.252.208.70:14282::United States::Georgia::Atlanta
-192.252.215.5:16137::United States::Georgia::Atlanta
+125.141.133.49:5566::Switzerland::Geneva::Le Grand-Saconnex
+202.109.183.139:7302::China::Beijing::Haidian
