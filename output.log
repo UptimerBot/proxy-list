@@ -1,19 +1,19 @@
-https://www.proxyscan.io/download?type=http: 
 https://www.proxyscan.io/download?type=https: 
-https://www.proxyscan.io/download?type=socks5: 
 https://www.proxyscan.io/download?type=socks4: 
+https://www.proxyscan.io/download?type=socks5: 
+https://www.proxyscan.io/download?type=http: 
 Scraper :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [21/21] 00:00
 Scraper :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [11/11] 00:00
 Scraper :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [13/13] 00:00
-Checker :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [12831/12831] 00:00
-Checker :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [3679/3679]   00:00
-Checker :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [1074/1074]   00:00
+Checker :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [12864/12864] 00:00
+Checker :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [3607/3607]   00:00
+Checker :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [1085/1085]   00:00
 ┏━━━━━━━━━━┳━━━━━━━━━━━━┳━━━━━━━┓
 ┃ Protocol ┃ Working    ┃ Total ┃
 ┡━━━━━━━━━━╇━━━━━━━━━━━━╇━━━━━━━┩
-│ HTTP     │ 127 (1.0%) │ 12831 │
-│ SOCKS4   │ 185 (5.0%) │ 3679  │
-│ SOCKS5   │ 81 (7.5%)  │ 1074  │
+│ HTTP     │ 92 (0.7%)  │ 12864 │
+│ SOCKS4   │ 163 (4.5%) │ 3607  │
+│ SOCKS5   │ 80 (7.4%)  │ 1085  │
 └──────────┴────────────┴───────┘
 Proxy folders have been created in the /home/runner/work/proxy-list/proxy-list 
 folder.
