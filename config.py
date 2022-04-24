@@ -57,6 +57,8 @@ HTTP_SOURCES = (
     "https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt",
     "https://raw.githubusercontent.com/rdavydov/proxy-list/main/proxies/http.txt",
     "https://raw.githubusercontent.com/mmpx12/proxy-list/master/http.txt",
+    "https://www.proxy-list.download/api/v1/get?type=http",
+    "http://pubproxy.com/api/proxy?type=http&format=txt&limit=5",
     os.getenv('PROXY11_URL'),
 )
 SOCKS4 = True
