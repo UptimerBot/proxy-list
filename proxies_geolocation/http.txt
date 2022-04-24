@@ -1,60 +1,66 @@
 205.155.45.139:3128::United States::California::Gonzales
-168.8.209.253:80::United States::Georgia::Roswell
-104.223.89.137:8118::United States::Georgia::Atlanta
-168.8.209.253:8080::United States::Georgia::Roswell
-171.103.58.122:8080::Thailand::Bangkok::Bangkok
-89.250.152.76:8080::Russia::Tyumen’ Oblast::Tyumen
-120.78.181.214:22::China::Guangdong::Shenzhen
-84.205.17.234:8080::Poland::West Pomerania::Szczecinek
 201.174.239.18:8080::Mexico::Nuevo León::Monterrey
-167.114.96.27:9300::United States::New York::New York
+168.8.209.253:80::United States::Georgia::Roswell
+168.8.209.253:8080::United States::Georgia::Roswell
 190.26.201.194:8080::Colombia::Departamento del Meta::Castilla La Nueva
-185.23.128.181:3128::Iran::Razavi Khorasan::Mashhad
-173.219.112.85:8080::United States::Illinois::Chicago
-185.103.168.76:8080::Kazakhstan::Shymkent::Shymkent
+171.103.58.122:8080::Thailand::Bangkok::Bangkok
+168.232.84.139:8080::Brazil::Ceara::Fortaleza
+89.250.152.76:8080::Russia::Tyumen’ Oblast::Tyumen
+134.209.42.113:8889::France::Brittany::Megrit
+154.236.189.25:1981::Egypt::Cairo Governorate::Cairo
+59.103.236.86:80::Pakistan::Islamabad::Islamabad
+45.17.249.223:8080::United States::Texas::Rockwall
 45.167.253.129:999::Mexico::San Luis Potosí::San Luis Potosí City
-148.101.139.37:8080::Dominican Republic::Provincia de Santo Domingo::Santo Domingo Este
-212.112.127.20:8080::Kyrgyzstan::Gorod Bishkek::Bishkek
-62.171.167.176:3128::Germany::Bavaria::Nuremberg
-139.196.90.48:22::China::Shanghai::Shanghai
-177.19.129.10:3128::Brazil::Ceara::Fortaleza
-190.110.111.135:999::Chile::O'Higgins Region::San Vicente
-201.219.11.206:999::Ecuador::Provincia de Pichincha::Quito
-62.75.219.49:5566::Germany::Bavaria::Erlangen
-103.250.153.203:8080::India::Gujarat::Vadodara
-45.70.238.180:999::Ecuador::Provincia de Manabi::Portoviejo
-182.53.231.229:8080::Thailand::Bangkok::Khwaeng Thung Song Hong
-46.0.114.185:55443::Russia::Samara Oblast::Samara
-200.24.157.116:999::Ecuador::Provincia del Canar::Azogues
-154.159.243.117:8080::Kenya::Nairobi Province::Nairobi
-61.135.155.82:443::China::Beijing::Xicheng District
-95.181.135.34:80::Russia::Khanty-Mansia::Nizhnevartovsk
-41.59.200.20:9999::Tanzania::Arusha::Arusha
-188.138.11.48:5566::Germany::Bavaria::Erlangen
-200.155.139.242:3128::Brazil::Rio Grande do Sul::Porto Alegre
-195.250.92.58:8080::Armenia::Lori::Vanadzor
-1.186.40.35:1111::India::Karnataka::Mangalore
-95.181.135.34:8080::Russia::Khanty-Mansia::Nizhnevartovsk
-85.25.95.231:5566::Germany::Bavaria::Erlangen
-179.49.161.58:999::Colombia::Departamento de Narino::Sandona
-204.199.129.38:999::United States::Illinois::Chicago
-138.0.231.202:999::Honduras::Departamento de Cortes::San Pedro Sula
-190.110.111.145:999::Chile::O'Higgins Region::San Vicente
-45.5.68.25:999::Peru::Lima::Lima
-183.172.50.122:7890::China::Beijing::Beijing
-202.162.37.68:8080::Indonesia::Central Java::Kebumen Satu
-177.93.33.246:999::Colombia::Departamento del Cauca::Santander de Quilichao
-176.37.150.254:41890::Ukraine::Kyiv City::Kyiv
+75.119.197.10:1081::United States::California::Brea
+201.150.117.189:999::Mexico::Hidalgo::Actopan
+103.147.77.66:5012::Indonesia::West Nusa Tenggara::Sumbawa Besar
+101.53.154.137:2017::Denmark::Capital Region::Graested
+85.25.199.122:5566::Germany::Land Berlin::Berlin
 43.154.235.215:8080::Hong Kong::Central and Western District::Hong Kong
-109.201.9.100:8080::Iran::Tehran::Tehran
-128.90.106.185:33080::Argentina::Buenos Aires F.D.::Buenos Aires
-102.130.79.254:3128::South Africa::Gauteng::Pretoria
-43.228.125.189:8080::Singapore::North West::Singapore
-202.29.237.210:3128::Thailand::Bangkok::Bangkok
-101.51.139.179:8080::Thailand::Lopburi::Lopburi
-85.25.132.9:5566::Germany::Bavaria::Erlangen
-186.0.176.147:8080::Argentina::Santa Cruz::El Calafate
-41.216.178.151:8080::Indonesia::West Java::Tasikmalaya
-197.232.65.40:55443::Kenya::Nairobi Province::Nairobi
-181.129.43.3:8080::Colombia::Antioquia::Medellín
-103.137.91.250:8080::Laos::Vientiane Prefecture::Vientiane
+47.119.152.33:22::China::Guangdong::Shenzhen
+212.46.230.102:6969::Russia::Moscow::Moscow
+103.215.207.34:83::India::Chhattisgarh::Kanker
+146.120.213.228:8080::Kyrgyzstan::Gorod Bishkek::Bishkek
+201.71.2.112:999::Venezuela::Distrito Federal::Caracas
+93.180.221.205:8080::Iraq::Baghdad::Baghdad
+190.60.36.210:999::Colombia::Departamento de Bolivar::Cartagena
+190.12.57.46:8080::Ecuador::Provincia de El Oro::Machala
+190.109.16.145:999::Colombia::Departamento del Huila::Aipe
+111.90.179.74:8080::Australia::Western Australia::Perth
+180.210.160.70:8080::Bangladesh::Dhaka Division::Dhaka
+124.40.244.137:8080::India::Karnataka::Bengaluru
+188.138.11.39:5566::Germany::Bavaria::Erlangen
+45.70.238.180:999::Ecuador::Provincia de Manabi::Portoviejo
+103.105.228.134:8080::India::Maharashtra::Mumbai
+24.43.140.138:8080::United States::California::Palm Springs
+95.181.135.34:80::Russia::Khanty-Mansia::Nizhnevartovsk
+189.157.84.202:999::Mexico::San Luis Potosí::San Luis Potosí City
+95.181.135.34:8080::Russia::Khanty-Mansia::Nizhnevartovsk
+47.117.67.73:22::China::Shanghai::Shanghai
+201.140.208.146:3128::Brazil::Minas Gerais::Janauba
+45.189.113.111:999::Ecuador::Provincia del Guayas::Milagro
+186.146.79.217:8085::Colombia::Departamento de Narino::Pasto
+67.73.188.138:999::Colombia::Bogota D.C.::Bogotá
+189.90.255.107:8080::Brazil::Minas Gerais::Itabira
+181.143.37.90:8181::Colombia::Antioquia::Medellín
+103.155.196.23:8080::Indonesia::West Java::Sukabumi
+5.16.0.23:1256::Russia::St.-Petersburg::St Petersburg
+114.4.104.254:3128::Indonesia::Jakarta::Jakarta
+181.129.7.138:999::Colombia::Antioquia::Medellín
+203.124.60.109:8080::Pakistan::Punjab::Lahore
+45.236.240.68:8080::Brazil::Amazonas::Manaus
+222.252.23.5:8080::Vietnam::Hanoi::Hanoi
+197.159.133.254:3129::Ghana::Greater Accra Region::Accra
+194.233.69.41:443::Singapore::Central Singapore::Singapore
+188.166.218.243:8080::Singapore::South West::Singapore
+85.25.235.229:5566::Germany::Free and Hanseatic City of Hamburg::Hamburg
+200.8.19.18:999::Venezuela::Yaracuy::San Felipe
+165.16.25.66:9999::Libya::Wadi ash Shati'::Idri
+103.81.77.194:83::India::Andhra Pradesh::Tanuku
+50.235.149.74:8080::United States::Virginia::Ashburn
+181.225.54.38:999::Venezuela::Distrito Federal::Caracas
+186.3.85.131:999::Ecuador::Provincia del Guayas::Hacienda El Triunfo
+186.3.38.202:999::Ecuador::Provincia del Guayas::Guayaquil
+144.48.235.114:8080::Australia::Queensland::Dirranbandi
+103.250.156.24:6666::India::Gujarat::Siddhapur
+201.91.82.155:3128::Brazil::Sao Paulo::São Paulo
