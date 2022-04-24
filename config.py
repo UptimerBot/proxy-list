@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
+import os
 
 # How many seconds to wait for the proxy to make a connection.
 # The higher this number, the longer the check will take
 # and the more proxies you will receive.
-TIMEOUT = 6
+TIMEOUT = 5
 
 # Maximum concurrent connections.
 # Don't set higher than 900, please.
@@ -56,6 +57,7 @@ HTTP_SOURCES = (
     "https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt",
     "https://raw.githubusercontent.com/rdavydov/proxy-list/main/proxies/http.txt",
     "https://raw.githubusercontent.com/mmpx12/proxy-list/master/http.txt",
+    os.getenv('PROXY11_URL'),
 )
 SOCKS4 = True
 SOCKS4_SOURCES = (
