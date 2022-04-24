@@ -21,3 +21,7 @@ A list of scrapped public proxies that is updated every 30 minutes.
 
 ### Info
 The proxies are scraped and checked using [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) created by monosans.
+
+
+### Support me
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J72WPRC)
