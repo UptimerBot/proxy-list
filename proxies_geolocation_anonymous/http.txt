@@ -1,61 +1,65 @@
-45.175.239.6:999::Mexico::Hidalgo::Actopan
-85.25.226.242:5566::Germany::Bavaria::Nuremberg
-102.68.128.219:8080::Libya::Tripoli::Tripoli
-162.219.119.225:8080::United States::Texas::Dallas
+12.144.254.185:9080::United States::Arkansas::Little Rock
+161.22.33.181:999::Venezuela::Miranda::Petare
+179.43.101.150:999::Argentina::Buenos Aires::Belen de Escobar
+95.216.194.46:1081::Japan::Tokyo::Koto
 102.130.79.254:3128::South Africa::Gauteng::Pretoria
-181.129.7.138:999::Colombia::Antioquia::Medellín
-206.161.97.16:31337::United States::Virginia::Ashburn
-62.75.229.51:5566::Germany::North Rhine-Westphalia::Bonn
-165.16.54.233:9999::Libya::Tripoli::Tripoli
-186.65.105.253:666::Brazil::Bahia::Salvador
-85.25.91.155:5566::Germany::Bavaria::Erlangen
-103.28.113.83:3128::Indonesia::Central Java::Purbalingga
-206.125.41.142:80::United States::California::Santa Clarita
-85.25.4.28:5566::Germany::Bavaria::Erlangen
-103.168.44.118:8080::Indonesia::Central Java::Danaraja
-85.25.100.47:5566::Germany::Bavaria::Erlangen
-143.248.55.62:8118::Switzerland::Zurich::Zurich
-85.25.108.234:5566::Germany::Land Berlin::Berlin
-102.68.128.210:8080::Libya::Tripoli::Tripoli
-85.25.132.9:5566::Germany::Bavaria::Erlangen
-1.1.189.58:8080::Thailand::Bueng Kan::Si Wilai
-160.226.132.33:8080::South Africa::Western Cape::Gansbaai
-85.25.95.231:5566::Germany::Bavaria::Erlangen
-200.58.87.195:8080::Bolivia::Departamento de La Paz::La Paz
-85.25.139.22:5566::Germany::North Rhine-Westphalia::Bonn
-103.11.106.229:8181::Indonesia::East Java::Magetan
-88.255.101.237:8080::Turkey::Istanbul::Istanbul
-200.6.254.254:999::Guatemala::Departamento de Quetzaltenango::Quetzaltenango
-200.125.171.57:999::Dominican Republic::Provincia de Santiago::Santiago de los Caballeros
-188.138.101.167:5566::Germany::Bavaria::Erlangen
-85.25.199.122:5566::Germany::Bavaria::Erlangen
-192.254.104.201:999::Puerto Rico::Humacao::Humacao
-45.184.103.113:999::Venezuela::Carabobo::Valencia
-103.147.77.66:5012::Indonesia::West Nusa Tenggara::Sumbawa Besar
-188.138.106.143:5566::Germany::Bavaria::Erlangen
-45.181.224.113:999::Venezuela::Distrito Federal::Caracas
-190.217.7.73:999::Venezuela::Distrito Federal::Caracas
-190.110.99.98:999::Chile::O'Higgins Region::Rancagua
-188.138.106.158:5566::Germany::North Rhine-Westphalia::Bonn
+45.225.8.0:40033::Brazil::Bahia::Salvador
+45.190.79.176:999::Mexico::Jalisco::Yahualica de Gonzalez Gallo
 178.252.175.16:8080::Iran::Tehran::Tehran
-24.152.52.42:999::Guatemala::Departamento de Jalapa::Jalapa
-45.167.72.22:8080::Brazil::Parana::Boa Esperanca
-138.185.124.54:8080::Brazil::Para::Itaituba
-36.95.147.251:8080::Indonesia::Central Java::Semarang
-190.217.10.12:999::Venezuela::Distrito Federal::Caracas
-62.75.219.49:5566::Germany::Land Berlin::Berlin
-5.189.186.24:5566::Luxembourg::Mersch::Roost
-116.0.4.54:8080::Indonesia::West Java::Bekasi
-41.138.168.2:8080::Nigeria::Lagos::Lagos
-41.216.178.151:8080::Indonesia::West Java::Tasikmalaya
-45.7.135.233:999::Colombia::Cundinamarca::Guayabal de Siquima
-85.25.208.212:5566::Germany::Bavaria::Erlangen
-190.110.111.135:999::Chile::O'Higgins Region::San Vicente
-103.124.137.40:8080::Indonesia::Banten::Tangerang
-103.71.21.185:82::India::Chhattisgarh::Raipur
-85.25.99.106:5566::Germany::Bavaria::Erlangen
-45.189.254.49:999::Mexico::Veracruz::Alvarado
-85.25.111.162:5566::France::Hauts-de-France::Roubaix
-77.104.97.5:8080::Iran::Tehran::Tehran
-186.3.38.202:999::Ecuador::Provincia del Guayas::Guayaquil
+103.11.106.201:8085::Indonesia::East Java::Magetan
+89.216.52.195:8080::Serbia::Belgrade::Belgrade
+201.249.161.51:999::Venezuela::Miranda::Caracas
+103.156.70.26:8089::Indonesia::East Java::Banyuwangi
+154.239.1.73:1981::Egypt::Giza::Giza
+85.25.208.198:5566::Germany::Bavaria::Erlangen
+177.93.33.188:8080::Colombia::Departamento de Narino::Policarpa
+85.25.208.212:5566::Germany::North Rhine-Westphalia::Bonn
+45.161.115.248:999::Chile::Coquimbo Region::Salamanca
+91.217.42.2:8080::Russia::Chelyabinsk Oblast::Chelyabinsk
+192.109.219.81:8080::Albania::Tirana::Tirana
+202.143.122.2:8080::Pakistan::Sindh::Karachi
+157.119.225.249:83::India::Haryana::Faridabad
+160.19.232.85:3128::South Africa::KwaZulu-Natal::KwaDukuza
+102.68.128.214:8080::Libya::Tripoli::Tripoli
+178.252.175.26:8080::Iran::Tehran::Tehran
+85.25.226.133:5566::Germany::North Rhine-Westphalia::Bonn
+62.75.219.49:5566::Germany::North Rhine-Westphalia::Bonn
+85.25.139.22:5566::Germany::North Rhine-Westphalia::Bonn
+85.25.242.142:5566::Germany::Land Berlin::Berlin
+102.68.135.129:8080::Libya::Tripoli::Tripoli
+62.138.8.42:5566::Germany::North Rhine-Westphalia::Düsseldorf
+45.171.242.17:8083::Brazil::Sao Paulo::Atibaia
+103.145.57.109:8080::Bangladesh::Rajshahi Division::Bogra
+103.242.105.86:3128::Indonesia::West Java::Karawang
+190.14.238.197:999::Colombia::Bogota D.C.::Bogotá
+188.138.106.143:5566::Germany::North Rhine-Westphalia::Bonn
+14.102.31.75:8080::India::Rajasthan::Jaipur
+110.232.64.88:8080::Indonesia::North Sumatra::Medan
+85.25.119.221:5566::Germany::Free and Hanseatic City of Hamburg::Hamburg
+175.103.39.179:63123::Indonesia::West Java::Cikupa
+200.39.63.206:999::Dominican Republic::Provincia de Monte Cristi::Castanuelas
+94.101.140.131:9999::Iran::Tehran::Tehran
+85.25.199.50:5566::Netherlands::North Holland::Amsterdam
+180.180.171.123:8080::Thailand::Nonthaburi::Pak Kret
+85.25.118.155:5566::Germany::Bavaria::Erlangen
+138.0.89.154:999::Colombia::Departamento de Narino::Pasto
+190.109.122.197:999::Ecuador::Provincia de Los Rios::Babahoyo
+45.181.122.73:999::Chile::O'Higgins Region::Rancagua
+45.65.132.149:8080::Brazil::Minas Gerais::Carlos Chagas
+190.110.111.141:999::Chile::O'Higgins Region::San Vicente
+85.25.201.22:5566::Germany::Bavaria::Erlangen
+117.121.204.9:34002::Indonesia::Central Java::Purwokerto
+178.252.175.10:8080::Iran::Tehran::Tehran
+191.97.6.213:999::Colombia::Departamento del Choco::Quibdó
+85.25.150.32:5566::Germany::North Rhine-Westphalia::Bonn
+186.125.235.101:999::Argentina::Tucuman::Simoca
 91.209.114.184:6789::Hungary::Budapest::Budapest
+80.244.41.249:8080::Russia::Krasnodarskiy Kray::Krasnodar
+95.0.66.86:8080::Turkey::Istanbul::Istanbul
+186.96.116.12:999::Colombia::Antioquia::Medellín
+188.138.11.48:5566::Germany::Bavaria::Erlangen
+185.32.6.131:8090::Poland::West Pomerania::Szczecin
+177.93.50.5:999::Colombia::Bogota D.C.::Bogotá
+85.25.108.234:5566::Germany::Bavaria::Erlangen
+131.72.69.150:40033::Brazil::Sergipe::Aracaju
+190.110.111.142:999::Chile::O'Higgins Region::San Vicente
