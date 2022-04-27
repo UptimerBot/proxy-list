@@ -1,7 +1,5 @@
-101.32.200.95:40000::Hong Kong::Central and Western District::Hong Kong
-143.248.55.62:5566::United States::Washington::Seattle
-208.113.222.201:41060::United States::California::Brea
-150.230.211.254:1080::Canada::Quebec::Montreal
-168.138.185.241:1080::Canada::Ontario::Toronto
-159.65.106.46:9050::Belgium::Brussels Capital::Brussels
-138.197.208.39:9050::Sweden::Stockholm County::Stockholm
+150.230.211.254:1080::Canada::Ontario::Toronto
+159.65.106.51:9050::Sweden::Stockholm County::Stockholm
+222.162.121.224:11223::Japan::Tokyo::Tokyo
+39.106.85.163:7891::Hong Kong::Central and Western District::Hong Kong
+125.141.133.49:5566::United States::Washington::Seattle
