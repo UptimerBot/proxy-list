@@ -1,25 +1,33 @@
-205.155.45.139:3128::United States::California::Gonzales
 168.8.209.253:8080::United States::Georgia::Roswell
-134.209.42.113:8894::Germany::North Rhine-Westphalia::Bonn
-182.253.92.111:8080::Indonesia::Bali::Denpasar
-138.185.124.54:8080::Brazil::Para::Itaituba
-190.104.1.19:999::Bolivia::Departamento de Santa Cruz::Santa Cruz
-190.110.111.152:999::Chile::O'Higgins Region::San Vicente
-178.252.175.26:8080::Iran::Tehran::Tehran
-45.190.79.160:999::Mexico::Jalisco::Yahualica de Gonzalez Gallo
-78.38.100.121:8080::Iran::Tehran::Tehran
-103.155.156.10:8080::Indonesia::West Java::Bogor
-91.217.42.3:8080::Russia::Chelyabinsk Oblast::Chelyabinsk
+168.8.209.253:80::United States::Georgia::Roswell
+91.221.240.20:1515::Iran::Tehran::Tehran
+85.25.100.47:5566::Germany::Land Berlin::Berlin
+205.155.45.139:3128::United States::California::Gonzales
+85.25.235.229:5566::Germany::North Rhine-Westphalia::Bonn
+101.53.158.48:9200::Netherlands::North Holland::Amsterdam
+62.138.7.104:5566::Germany::Saxony::Dresden
+188.138.89.50:5566::Germany::North Rhine-Westphalia::Bonn
+62.138.8.42:5566::Germany::Bavaria::Nuremberg
+188.138.11.39:5566::Germany::Lower Saxony::Broitzem
+85.25.132.27:5566::Germany::Free and Hanseatic City of Hamburg::Hamburg
+85.25.95.231:5566::Germany::Bavaria::Erlangen
+85.25.4.27:5566::Germany::Bavaria::Erlangen
+85.25.108.234:5566::Germany::North Rhine-Westphalia::Bonn
+62.75.229.155:5566::Germany::Land Berlin::Berlin
+165.16.54.233:9999::Libya::Tripoli::Tripoli
+188.138.90.226:5566::Germany::Bavaria::Erlangen
+85.25.226.242:5566::Germany::North Rhine-Westphalia::Bonn
+85.25.91.155:5566::Germany::Bavaria::Erlangen
+85.25.208.198:5566::Germany::Bavaria::Erlangen
+62.75.219.49:5566::Germany::Free and Hanseatic City of Hamburg::Hamburg
+167.172.96.117:33823::Germany::Land Berlin::Berlin
+193.242.151.43:8080::Russia::Krasnodarskiy Kray::Krasnodar
+2.186.119.241:8080::Iran::Tehran::Tehran
+85.25.119.221:5566::Germany::Free and Hanseatic City of Hamburg::Hamburg
+200.69.88.4:999::Colombia::Bogota D.C.::Bogotá
+85.25.208.212:5566::Germany::Bavaria::Erlangen
+188.138.106.143:5566::Germany::North Rhine-Westphalia::Bonn
 45.173.44.1:999::Colombia::San Andres y Providencia::La Loma
-200.24.157.116:999::Ecuador::Provincia del Canar::Azogues
-190.110.99.103:999::Chile::O'Higgins Region::Rancagua
-80.244.41.249:8080::Russia::Krasnodarskiy Kray::Krasnodar
-187.102.236.209:999::Mexico::Chihuahua::Parral
-102.68.128.217:8080::Libya::Tripoli::Tripoli
-183.89.155.95:8080::Thailand::Nakhon Ratchasima::Nakhon Ratchasima
-179.61.229.165:999::Dominican Republic::Provincia de Santiago::Santiago de los Caballeros
-190.2.214.91:999::Colombia::Departamento del Vichada::Puerto Carreño
-201.217.55.97:8080::Paraguay::Asuncion::Asunción
+85.25.93.136:5566::Germany::Land Berlin::Berlin
 45.167.253.129:999::Mexico::San Luis Potosí::San Luis Potosí City
-125.25.206.28:8080::Thailand::Bangkok::Khwaeng Thung Song Hong
-191.97.19.93:999::Venezuela::Distrito Federal::Caracas
+186.125.235.101:999::Argentina::Buenos Aires F.D.::Buenos Aires
