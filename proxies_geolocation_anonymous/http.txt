@@ -1,27 +1,23 @@
-209.52.84.136:53281::Canada::British Columbia::Whistler
-168.8.209.253:8080::United States::Georgia::Roswell
 205.155.45.139:3128::United States::California::Gonzales
-192.99.144.208:8080::Brazil::Rio de Janeiro::Rio de Janeiro
-85.25.235.229:5566::Germany::Land Berlin::Berlin
-62.75.229.51:5566::Germany::Free and Hanseatic City of Hamburg::Hamburg
-85.25.117.134:5566::Germany::Land Berlin::Berlin
-180.180.171.123:8080::Thailand::Nonthaburi::Pak Kret
-80.244.41.249:8080::Russia::Krasnodarskiy Kray::Krasnodar
-186.67.230.45:3128::Chile::Santiago Metropolitan::Santiago
+168.8.209.253:80::United States::Georgia::Roswell
+168.8.209.253:8080::United States::Georgia::Roswell
+144.217.7.157:9300::United States::Washington::Seattle
+154.236.168.179:1981::Egypt::Giza::Giza
+78.47.227.89:8118::Netherlands::North Holland::Amsterdam
+85.25.196.218:5566::Germany::Land Berlin::Berlin
+162.219.119.225:8080::United States::Texas::Dallas
 170.246.39.7:999::Argentina::Buenos Aires::Piguee
-103.29.185.189:8080::Indonesia::Jakarta::Jakarta
-175.101.85.33:8080::India::Andhra Pradesh::Guntur
-159.65.69.186:9300::United States::Florida::Miami
-118.69.176.168:8080::Vietnam::Ho Chi Minh::Ho Chi Minh City
-159.224.232.222:3128::Ukraine::Dnipropetrovsk Oblast::Dnipro
-85.25.119.241:5566::Germany::North Rhine-Westphalia::Bonn
-190.90.242.208:999::Colombia::Departamento de Norte de Santander::Ocaña
-85.25.132.27:5566::Germany::Bavaria::Erlangen
-192.254.104.201:999::Puerto Rico::Humacao::Humacao
-124.40.244.137:8080::India::Karnataka::Bengaluru
-201.182.85.242:999::Ecuador::Provincia de Sucumbios::Nueva Loja
-45.239.123.14:999::Chile::Santiago Metropolitan::Puente Alto
-190.110.99.101:999::Chile::O'Higgins Region::Rancagua
-12.144.254.185:9080::United States::Arkansas::Little Rock
-181.224.255.41:8080::Peru::Lima::Lima
-149.56.96.252:5566::Netherlands::North Holland::Amsterdam
+188.138.106.93:5566::Germany::North Rhine-Westphalia::Bonn
+188.138.11.48:5566::Germany::Free and Hanseatic City of Hamburg::Hamburg
+202.180.29.59:8080::Indonesia::Jakarta::Jakarta
+188.138.11.39:5566::Germany::Land Berlin::Berlin
+85.25.208.212:5566::Germany::Bavaria::Erlangen
+201.222.45.64:999::Chile::Santiago Metropolitan::Santiago
+152.231.25.58:8080::Colombia::Departamento del Valle del Cauca::Santiago de Cali
+103.153.190.78:8081::Indonesia::East Java::Jember
+190.110.111.146:999::Chile::O'Higgins Region::San Vicente
+85.25.150.32:5566::Germany::Land Berlin::Berlin
+186.67.230.45:3128::Chile::Santiago Metropolitan::Santiago
+103.100.235.233:8080::Bangladesh::Dhaka Division::Dhaka
+80.244.41.249:8080::Russia::Krasnodarskiy Kray::Krasnodar
+114.7.165.150:9812::Indonesia::Jakarta::Jakarta
