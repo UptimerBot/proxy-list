@@ -1,28 +1,20 @@
 None: 'NoneType' object has no attribute 'strip'
-https://www.proxyscan.io/download?type=http: Cannot connect to host 
-www.proxyscan.io:443 ssl:default [Temporary failure in name resolution]
-https://www.proxyscan.io/download?type=https: Cannot connect to host 
-www.proxyscan.io:443 ssl:default [Temporary failure in name resolution]
-https://www.proxyscan.io/download?type=socks4: Cannot connect to host 
-www.proxyscan.io:443 ssl:default [Temporary failure in name resolution]
-https://www.proxyscan.io/download?type=socks5: Cannot connect to host 
-www.proxyscan.io:443 ssl:default [Temporary failure in name resolution]
 https://www.proxy-list.download/api/v1/get?type=socks4: 
-https://www.proxy-list.download/api/v1/get?type=https: 
 https://www.proxy-list.download/api/v1/get?type=http: 
 https://www.proxy-list.download/api/v1/get?type=socks5: 
+https://www.proxy-list.download/api/v1/get?type=https: 
 Scraper :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [23/23] 00:00
 Scraper :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [11/11] 00:00
 Scraper :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [13/13] 00:00
-Checker :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [17407/17407] 00:00
-Checker :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [2850/2850]   00:00
-Checker :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [679/679]     00:00
-┏━━━━━━━━━━┳━━━━━━━━━━━━━┳━━━━━━━┓
-┃ Protocol ┃ Working     ┃ Total ┃
-┡━━━━━━━━━━╇━━━━━━━━━━━━━╇━━━━━━━┩
-│ HTTP     │ 90 (0.5%)   │ 17407 │
-│ SOCKS4   │ 189 (6.6%)  │ 2850  │
-│ SOCKS5   │ 100 (14.7%) │ 679   │
-└──────────┴─────────────┴───────┘
+Checker :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [17453/17453] 00:00
+Checker :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [2782/2782]   00:00
+Checker :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [630/630]     00:00
+┏━━━━━━━━━━┳━━━━━━━━━━━━┳━━━━━━━┓
+┃ Protocol ┃ Working    ┃ Total ┃
+┡━━━━━━━━━━╇━━━━━━━━━━━━╇━━━━━━━┩
+│ HTTP     │ 97 (0.6%)  │ 17453 │
+│ SOCKS4   │ 169 (6.1%) │ 2782  │
+│ SOCKS5   │ 77 (12.2%) │ 630   │
+└──────────┴────────────┴───────┘
 Proxy folders have been created in the /home/runner/work/proxy-list/proxy-list 
 folder.
