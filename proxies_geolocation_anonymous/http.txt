@@ -1,65 +1,57 @@
-205.155.45.139:3128::United States::California::Gonzales
-168.8.209.253:8080::United States::Georgia::Roswell
 168.8.209.253:80::United States::Georgia::Roswell
-165.225.81.243:10587::United Kingdom::England::Larkfield
-147.161.166.24:10587::United Kingdom::England::Larkfield
-165.225.80.217:10587::United Kingdom::England::Larkfield
-165.225.20.24:10587::France::Île-de-France::Paris
-165.225.12.24:10587::Belgium::Flanders::Boechout
-165.225.76.46:10587::France::Île-de-France::Paris
-165.225.77.184:10587::France::Île-de-France::Paris
-165.225.204.25:10587::France::Île-de-France::Paris
-165.225.194.23:10587::Denmark::Capital Region::Ballerup Municipality
-165.225.240.22:10587::Netherlands::North Holland::Amsterdam
-165.225.206.26:10587::Poland::Mazovia::Warsaw
-165.225.12.22:10587::Belgium::Flanders::Boechout
-165.225.205.119:10587::France::Île-de-France::Paris
-165.225.20.26:10587::France::Île-de-France::Paris
-165.225.196.23:10640::United Kingdom::England::Manchester
-147.161.172.24:10587::Netherlands::North Holland::Amsterdam
-165.225.192.23:10587::Sweden::Stockholm County::Stockholm
-165.225.204.23:10640::France::Île-de-France::Paris
-165.225.194.27:10587::Denmark::Capital Region::Ballerup Municipality
-165.225.192.21:10587::Sweden::Stockholm County::Stockholm
-61.200.81.20:20000::Japan::Tokyo::Chiyoda
+152.26.231.86:9443::United States::North Carolina::Fayetteville
+168.8.209.253:8080::United States::Georgia::Roswell
 165.225.16.163:10587::United Kingdom::England::London
-185.46.212.41:10587::Netherlands::North Holland::Amsterdam
+147.161.166.24:10587::United Kingdom::England::Romford
+165.225.20.26:10587::France::Île-de-France::Paris
+165.225.76.46:10587::France::Île-de-France::Paris
+165.225.197.191:10640::United Kingdom::England::Manchester
+165.225.12.24:10587::Belgium::Flanders::Boechout
 165.225.21.234:10587::France::Île-de-France::Paris
-165.225.90.23:10587::Russia::Moscow::Moscow
+165.225.194.27:10587::Denmark::Capital Region::Ballerup Municipality
+165.225.80.217:10587::United Kingdom::England::Cottenham
+205.155.45.139:3128::United States::California::Gonzales
+165.225.240.22:10587::Netherlands::North Holland::Amsterdam
+165.225.198.24:10587::United Kingdom::England::Manchester
+165.225.194.23:10587::Denmark::Capital Region::Ballerup Municipality
+165.225.77.184:10587::France::Île-de-France::Paris
+185.46.212.41:10587::Netherlands::North Holland::Amsterdam
+165.225.204.25:10587::France::Île-de-France::Paris
+165.225.192.23:10587::Sweden::Stockholm County::Stockholm
+165.225.205.119:10587::France::Île-de-France::Paris
 147.161.188.24:10587::Sweden::Stockholm County::Stockholm
+165.225.12.22:10587::Belgium::Flanders::Boechout
+165.225.81.243:10587::United Kingdom::England::Harringay
+165.225.80.41:10587::United Kingdom::Scotland::Cumbernauld
+165.225.192.21:10587::Sweden::Stockholm County::Stockholm
+165.225.204.23:10640::France::Île-de-France::Paris
+165.225.90.23:10587::Russia::Moscow::Moscow
+129.159.148.238:8080::Israel::Jerusalem::Jerusalem
 165.225.90.26:10587::Russia::Moscow::Moscow
 129.159.148.238:3128::Israel::Jerusalem::Jerusalem
-165.225.198.24:10587::United Kingdom::England::Manchester
-181.224.255.42:8080::Peru::Lima::Lima
-152.200.154.57:999::Colombia::Departamento del Caqueta::Florencia
-12.144.254.185:9080::United States::Arkansas::Little Rock
-200.24.132.204:6969::Ecuador::Provincia del Guayas::Guayaquil
-186.148.184.130:999::Colombia::Bogota D.C.::Bogotá
-178.252.175.26:8080::Iran::Tehran::Tehran
-170.80.202.238:999::Dominican Republic::Provincia de Santiago::Santiago de los Caballeros
-157.100.53.100:999::Ecuador::Provincia de El Oro::Machala
-200.8.188.25:999::Venezuela::Lara::Barquisimeto
-102.68.128.217:8080::Libya::Tripoli::Tripoli
-101.231.166.98:443::China::Shanghai::Shanghai
-181.209.117.53:8080::Argentina::Buenos Aires::Pellegrini
-186.67.230.45:3128::Chile::Santiago Metropolitan::Santiago
-103.147.77.66:5018::Indonesia::West Nusa Tenggara::Sumbawa Besar
+147.161.172.24:10587::Netherlands::North Holland::Amsterdam
 121.254.195.12:8080::South Korea::Seoul::Yongsan-dong
-114.249.112.121:9000::China::Beijing::Beijing
-95.214.123.200:8080::Hungary::Bács-Kiskun::Kecskemét
-91.121.42.14:1081::France::Hauts-de-France::Roubaix
-177.93.33.188:8080::Colombia::Departamento de Narino::Policarpa
-101.255.121.27:8080::Indonesia::West Java::Bekasi
-186.167.50.161:999::Venezuela::Yaracuy::Chivacoa
-45.189.113.63:999::Ecuador::Provincia del Guayas::Milagro
-129.159.148.238:8080::Israel::Jerusalem::Jerusalem
-189.203.180.233:999::Mexico::Hidalgo::Tetepango
-89.203.235.110:9999::Czechia::Central Bohemia::Brandys nad Labem-Stara Boleslav
-103.151.219.116:8080::Indonesia::East Java::Slumbung
-177.234.196.180:8588::Ecuador::Provincia del Guayas::Guayaquil
-45.88.99.29:999::Dominican Republic::Provincia de Santiago::Santiago de los Caballeros
-167.114.96.27:9300::Germany::Land Berlin::Berlin
-103.151.247.49:10001::Indonesia::West Sulawesi::Mamuju
-200.60.12.43:999::Peru::Piura::Piura
-138.117.85.97:999::Colombia::Departamento del Huila::Pitalito
-103.155.54.233:84::India::West Bengal::Karimpur
+94.101.140.131:9999::Iran::Tehran::Tehran
+61.200.81.20:20000::Japan::Tokyo::Chiyoda
+186.67.230.45:3128::Chile::Santiago Metropolitan::Santiago
+38.130.249.137:999::Dominican Republic::Provincia de Santo Domingo::Santo Domingo Este
+45.189.254.2:999::Mexico::Veracruz::Alvarado
+178.252.175.5:8080::Iran::Tehran::Tehran
+114.4.104.254:3128::Indonesia::Jakarta::Jakarta
+103.147.77.66:5009::Indonesia::West Nusa Tenggara::Sumbawa Besar
+103.241.205.136:3129::Indonesia::West Java::Cirebon
+144.91.73.122:5566::Germany::North Rhine-Westphalia::Bonn
+103.144.21.87:8080::Indonesia::West Java::Menteng
+45.7.133.236:999::Colombia::Departamento de Risaralda::Quinchia
+179.61.229.163:999::Dominican Republic::Provincia de Santiago::Santiago de los Caballeros
+45.167.253.129:999::Mexico::San Luis Potosí::San Luis Potosí City
+200.125.171.57:999::Dominican Republic::Provincia de Santiago::Santiago de los Caballeros
+201.150.117.97:999::Mexico::Hidalgo::Actopan
+191.97.60.126:999::Peru::Lambayeque::Chiclayo
+45.189.254.49:999::Mexico::Veracruz::Alvarado
+157.100.53.100:999::Ecuador::Provincia de El Oro::Machala
+45.189.254.26:999::Mexico::Veracruz::Alvarado
+177.23.54.10:6006::Brazil::Rio Grande do Sul::Imigrante
+119.82.240.177:6060::Indonesia::Banten::South Tangerang
+45.230.169.129:999::Venezuela::Distrito Federal::Caracas
+103.147.77.66:5021::Indonesia::West Nusa Tenggara::Sumbawa Besar
