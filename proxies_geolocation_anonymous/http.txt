@@ -1,57 +1,53 @@
-168.8.209.253:80::United States::Georgia::Roswell
-152.26.231.86:9443::United States::North Carolina::Fayetteville
 168.8.209.253:8080::United States::Georgia::Roswell
-165.225.16.163:10587::United Kingdom::England::London
-147.161.166.24:10587::United Kingdom::England::Romford
-165.225.20.26:10587::France::Île-de-France::Paris
-165.225.76.46:10587::France::Île-de-France::Paris
-165.225.197.191:10640::United Kingdom::England::Manchester
-165.225.12.24:10587::Belgium::Flanders::Boechout
-165.225.21.234:10587::France::Île-de-France::Paris
-165.225.194.27:10587::Denmark::Capital Region::Ballerup Municipality
-165.225.80.217:10587::United Kingdom::England::Cottenham
-205.155.45.139:3128::United States::California::Gonzales
-165.225.240.22:10587::Netherlands::North Holland::Amsterdam
-165.225.198.24:10587::United Kingdom::England::Manchester
-165.225.194.23:10587::Denmark::Capital Region::Ballerup Municipality
-165.225.77.184:10587::France::Île-de-France::Paris
-185.46.212.41:10587::Netherlands::North Holland::Amsterdam
-165.225.204.25:10587::France::Île-de-France::Paris
-165.225.192.23:10587::Sweden::Stockholm County::Stockholm
-165.225.205.119:10587::France::Île-de-France::Paris
-147.161.188.24:10587::Sweden::Stockholm County::Stockholm
-165.225.12.22:10587::Belgium::Flanders::Boechout
-165.225.81.243:10587::United Kingdom::England::Harringay
-165.225.80.41:10587::United Kingdom::Scotland::Cumbernauld
-165.225.192.21:10587::Sweden::Stockholm County::Stockholm
-165.225.204.23:10640::France::Île-de-France::Paris
-165.225.90.23:10587::Russia::Moscow::Moscow
-129.159.148.238:8080::Israel::Jerusalem::Jerusalem
-165.225.90.26:10587::Russia::Moscow::Moscow
-129.159.148.238:3128::Israel::Jerusalem::Jerusalem
+168.8.209.253:80::United States::Georgia::Roswell
 147.161.172.24:10587::Netherlands::North Holland::Amsterdam
-121.254.195.12:8080::South Korea::Seoul::Yongsan-dong
-94.101.140.131:9999::Iran::Tehran::Tehran
+147.161.166.24:10587::United Kingdom::England::Larkfield
+165.225.16.163:10587::United Kingdom::England::London
+165.225.77.184:10587::France::Île-de-France::Paris
+165.225.20.26:10587::France::Île-de-France::Paris
+165.225.197.191:10640::United Kingdom::England::Manchester
+165.225.80.41:10587::United Kingdom::Scotland::Cumbernauld
+165.225.12.22:10587::Belgium::Flanders::Boechout
+165.225.240.22:10587::Netherlands::North Holland::Amsterdam
+165.225.21.234:10587::France::Île-de-France::Paris
+165.225.196.23:10640::United Kingdom::England::Manchester
+165.225.204.25:10587::France::Île-de-France::Paris
+165.225.20.24:10587::France::Île-de-France::Paris
 61.200.81.20:20000::Japan::Tokyo::Chiyoda
-186.67.230.45:3128::Chile::Santiago Metropolitan::Santiago
+165.225.240.27:10587::Netherlands::North Holland::Amsterdam
+165.225.80.217:10587::United Kingdom::England::Larkfield
+147.161.188.24:10587::Sweden::Stockholm County::Stockholm
+185.46.212.41:10587::Netherlands::North Holland::Amsterdam
+165.225.192.21:10587::Sweden::Stockholm County::Stockholm
+165.225.194.27:10587::Denmark::Capital Region::Ballerup Municipality
+165.225.194.23:10587::Denmark::Capital Region::Ballerup Municipality
+165.225.206.26:10587::Poland::Mazovia::Warsaw
+165.225.198.24:10587::United Kingdom::England::Manchester
+165.225.90.23:10587::Russia::Moscow::Moscow
+205.155.45.139:3128::United States::California::Gonzales
+165.225.81.243:10587::United Kingdom::England::Larkfield
+165.225.12.24:10587::Belgium::Flanders::Boechout
+165.225.205.119:10587::France::Île-de-France::Paris
+192.254.104.201:999::Puerto Rico::Humacao::Humacao
+129.159.148.238:3128::Israel::Jerusalem::Jerusalem
+157.100.53.102:999::Ecuador::Provincia de El Oro::Machala
 38.130.249.137:999::Dominican Republic::Provincia de Santo Domingo::Santo Domingo Este
-45.189.254.2:999::Mexico::Veracruz::Alvarado
-178.252.175.5:8080::Iran::Tehran::Tehran
-114.4.104.254:3128::Indonesia::Jakarta::Jakarta
-103.147.77.66:5009::Indonesia::West Nusa Tenggara::Sumbawa Besar
-103.241.205.136:3129::Indonesia::West Java::Cirebon
-144.91.73.122:5566::Germany::North Rhine-Westphalia::Bonn
-103.144.21.87:8080::Indonesia::West Java::Menteng
-45.7.133.236:999::Colombia::Departamento de Risaralda::Quinchia
-179.61.229.163:999::Dominican Republic::Provincia de Santiago::Santiago de los Caballeros
-45.167.253.129:999::Mexico::San Luis Potosí::San Luis Potosí City
-200.125.171.57:999::Dominican Republic::Provincia de Santiago::Santiago de los Caballeros
-201.150.117.97:999::Mexico::Hidalgo::Actopan
-191.97.60.126:999::Peru::Lambayeque::Chiclayo
+181.224.255.42:8080::Peru::Lima::Lima
 45.189.254.49:999::Mexico::Veracruz::Alvarado
+186.67.230.45:3128::Chile::Santiago Metropolitan::Santiago
+121.254.195.12:8080::South Korea::Seoul::Yongsan-dong
+103.147.77.66:5009::Indonesia::West Nusa Tenggara::Sumbawa Besar
+95.214.123.200:8080::Hungary::Bács-Kiskun::Kecskemét
+181.224.255.41:8080::Peru::Lima::Lima
+45.70.15.6:8080::Ecuador::Provincia del Guayas::Guayaquil
 157.100.53.100:999::Ecuador::Provincia de El Oro::Machala
+190.14.238.197:999::Colombia::Bogota D.C.::Bogotá
+135.181.1.241:50057::Russia::St.-Petersburg::St Petersburg
+177.242.151.148:8080::Mexico::Oaxaca::San Juan Bautista Tuxtla
+45.184.103.113:999::Venezuela::Carabobo::Valencia
+45.189.254.2:999::Mexico::Veracruz::Alvarado
+103.147.77.66:5018::Indonesia::West Nusa Tenggara::Sumbawa Besar
 45.189.254.26:999::Mexico::Veracruz::Alvarado
-177.23.54.10:6006::Brazil::Rio Grande do Sul::Imigrante
-119.82.240.177:6060::Indonesia::Banten::South Tangerang
-45.230.169.129:999::Venezuela::Distrito Federal::Caracas
-103.147.77.66:5021::Indonesia::West Nusa Tenggara::Sumbawa Besar
+45.189.254.10:999::Mexico::Veracruz::Alvarado
+103.131.245.126:8080::Indonesia::Riau::Pulau Karam
+95.0.219.240:8080::Turkey::Kayseri::Kayseri
