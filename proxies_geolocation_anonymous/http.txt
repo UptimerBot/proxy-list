@@ -1,42 +1,59 @@
-168.8.209.253:80::United States::Georgia::Roswell
-205.155.45.139:3128::United States::California::Gonzales
-165.225.20.24:10587::France::Île-de-France::Paris
-165.225.240.22:10587::Netherlands::North Holland::Amsterdam
-165.225.16.163:10587::United Kingdom::England::London
-165.225.197.191:10640::United Kingdom::England::Manchester
+165.225.81.243:10587::United Kingdom::England::Larkfield
 165.225.76.46:10587::France::Île-de-France::Paris
+165.225.197.191:10640::United Kingdom::England::Manchester
+165.225.80.217:10587::United Kingdom::England::Romford
+165.225.240.27:10587::Netherlands::North Holland::Amsterdam
 165.225.196.23:10640::United Kingdom::England::Manchester
+165.225.240.22:10587::Netherlands::North Holland::Amsterdam
+165.225.21.234:10587::France::Île-de-France::Paris
+165.225.12.24:10587::Belgium::Flanders::Boechout
+165.225.205.119:10587::France::Normandy::Rouen
+165.225.204.25:10587::France::Île-de-France::Paris
+165.225.20.24:10587::France::Île-de-France::Paris
+38.130.249.137:999::Dominican Republic::Provincia de Santo Domingo::Santo Domingo Este
+165.225.192.21:10587::Sweden::Stockholm County::Stockholm
+165.225.16.163:10587::United Kingdom::England::London
 147.161.172.24:10587::Netherlands::North Holland::Amsterdam
-165.225.205.119:10587::France::Île-de-France::Paris
-165.225.198.24:10587::United Kingdom::England::Manchester
-165.225.20.26:10587::France::Île-de-France::Paris
+147.161.188.24:10587::Sweden::Stockholm County::Stockholm
+165.225.204.23:10640::France::Île-de-France::Paris
+185.46.212.41:10587::Netherlands::North Holland::Amsterdam
 165.225.194.23:10587::Denmark::Capital Region::Ballerup Municipality
 165.225.12.22:10587::Belgium::Flanders::Boechout
+165.225.20.26:10587::France::Île-de-France::Paris
+165.225.198.24:10587::United Kingdom::England::Manchester
+205.155.45.139:3128::United States::California::Gonzales
+165.225.194.27:10587::Denmark::Capital Region::Ballerup Municipality
+165.225.192.23:10587::Sweden::Stockholm County::Stockholm
 165.225.206.26:10587::Poland::Mazovia::Warsaw
-165.225.80.217:10587::United Kingdom::Scotland::Cumbernauld
-165.225.21.234:10587::France::Île-de-France::Paris
-185.46.212.41:10587::Netherlands::North Holland::Amsterdam
-165.225.192.21:10587::Sweden::Stockholm County::Stockholm
-165.225.81.243:10587::United Kingdom::Scotland::Cumbernauld
-147.161.188.24:10587::Sweden::Stockholm County::Stockholm
+121.254.195.12:8080::South Korea::Seoul::Yongsan-dong
+168.8.209.253:80::United States::Georgia::Roswell
+95.217.84.58:8118::United States::New York::New York
 165.225.90.23:10587::Russia::Moscow::Moscow
-165.225.90.26:10587::Russia::Moscow::Moscow
-147.161.166.24:10587::United Kingdom::England::Larkfield
-165.225.204.23:10640::France::Normandy::Rouen
-129.159.148.238:3128::Israel::Jerusalem::Jerusalem
-61.200.81.20:20000::Japan::Tokyo::Chiyoda
-190.217.7.73:999::Venezuela::Distrito Federal::Caracas
-14.157.114.20:7890::Hong Kong::Sai Kung District::Tseung Kwan O
-129.159.148.238:8080::Israel::Jerusalem::Jerusalem
+147.161.166.24:10587::United Kingdom::England::Salisbury
+200.69.88.4:999::Colombia::Departamento de Cordoba::Montería
+66.70.178.214:9300::Germany::North Rhine-Westphalia::Bonn
 186.67.230.45:3128::Chile::Santiago Metropolitan::Santiago
+157.100.53.102:999::Ecuador::Provincia de El Oro::Machala
+14.157.114.20:7890::Hong Kong::Sai Kung District::Tseung Kwan O
+45.189.254.10:999::Mexico::Veracruz::Alvarado
+114.4.104.254:3128::Indonesia::Jakarta::Jakarta
+165.16.43.1:8080::Libya::Tripoli::Tripoli
 157.100.53.100:999::Ecuador::Provincia de El Oro::Machala
-101.53.158.48:9200::Switzerland::Zurich::Zurich
-65.21.111.230:5566::Sweden::Stockholm County::Stockholm
-103.131.245.126:8080::Indonesia::Riau::Pulau Karam
-103.93.237.81:8080::Indonesia::Jakarta::Cibubur
-165.16.5.77:1981::Libya::Sha'biyat Banghazi::Benghazi
-103.36.35.135:8080::Indonesia::Jakarta::Jakarta
-182.150.48.205:7890::Hong Kong::Sai Kung District::Tseung Kwan O
-91.93.42.122:10001::Turkey::Istanbul::Istanbul
-152.200.154.57:999::Colombia::Departamento del Caqueta::Florencia
-203.114.65.40:1337::Philippines::Metro Manila::Pasay
+77.104.97.5:8080::Iran::Tehran::Tehran
+186.167.50.161:999::Venezuela::Yaracuy::Chivacoa
+177.93.33.188:8080::Colombia::Departamento de Narino::Policarpa
+45.189.254.2:999::Mexico::Veracruz::Alvarado
+80.28.102.26:8080::Spain::Catalonia::Alcoletge
+45.166.144.2:999::Chile::Santiago Metropolitan::Santiago
+45.190.79.160:999::Mexico::Jalisco::Yahualica de Gonzalez Gallo
+95.0.6.251:8080::Turkey::Istanbul::Istanbul
+41.94.107.2:8080::Mozambique::Maputo Province::Maputo
+201.222.45.65:999::Chile::Santiago Metropolitan::La Pintana
+200.125.171.202:9991::Dominican Republic::Provincia de Santiago::Santiago de los Caballeros
+45.175.160.34:999::Argentina::Mendoza::Maipu
+190.90.130.150:999::Colombia::Departamento de Santander::Barrancabermeja
+91.217.42.4:8080::Russia::Chelyabinsk Oblast::Chelyabinsk
+181.198.40.117:999::Ecuador::Provincia del Guayas::Guayaquil
+103.11.106.8:8181::Indonesia::East Java::Madiun
+157.100.52.146:999::Ecuador::Provincia de Los Rios::Quevedo
+103.164.114.187:8080::Indonesia::Jakarta::Jakarta
