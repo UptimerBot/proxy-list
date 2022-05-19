@@ -1,79 +1,64 @@
-168.8.209.253:8080::United States::Georgia::Roswell
-168.8.209.253:80::United States::Georgia::Roswell
-147.161.172.24:10587::Netherlands::North Holland::Amsterdam
-165.225.240.22:10587::Netherlands::North Holland::Amsterdam
-165.225.194.23:10587::Denmark::Capital Region::Ballerup Municipality
-165.225.80.217:10587::United Kingdom::Scotland::Cumbernauld
-165.225.20.24:10587::France::Île-de-France::Paris
-165.225.198.24:10587::United Kingdom::England::Manchester
-165.225.76.46:10587::France::Île-de-France::Paris
-165.225.196.23:10640::United Kingdom::England::Manchester
-185.46.212.41:10587::Netherlands::North Holland::Amsterdam
 205.155.45.139:3128::United States::California::Gonzales
-165.225.240.27:10587::Netherlands::North Holland::Amsterdam
-165.225.197.191:10640::United Kingdom::England::Manchester
-165.225.205.119:10587::France::Île-de-France::Paris
-213.52.102.11:10640::Norway::Oslo County::Oslo
+168.8.209.253:80::United States::Georgia::Roswell
+168.8.209.253:8080::United States::Georgia::Roswell
+45.182.22.54:999::Honduras::Departamento de Cortes::San Pedro Sula
+147.161.166.24:10587::United Kingdom::England::Dagenham
+165.225.80.217:10587::United Kingdom::England::Larkfield
+147.161.172.24:10587::Netherlands::North Holland::Amsterdam
 165.225.16.163:10587::United Kingdom::England::London
-165.225.192.23:10587::Sweden::Stockholm County::Stockholm
-165.225.77.184:10587::France::Île-de-France::Paris
+165.225.20.24:10587::France::Île-de-France::Paris
+165.225.196.23:10640::United Kingdom::England::Manchester
 165.225.12.22:10587::Belgium::Flanders::Boechout
+165.225.194.27:10587::Denmark::Capital Region::Ballerup Municipality
+165.225.77.184:10587::France::Île-de-France::Paris
+165.225.240.22:10587::Netherlands::North Holland::Amsterdam
+165.225.204.25:10587::France::Île-de-France::Paris
 165.225.192.21:10587::Sweden::Stockholm County::Stockholm
+165.225.192.23:10587::Sweden::Stockholm County::Stockholm
+165.225.80.41:10587::United Kingdom::England::Romford
+165.225.197.191:10640::United Kingdom::England::Manchester
+165.225.12.24:10587::Belgium::Flanders::Boechout
+165.225.194.23:10587::Denmark::Capital Region::Ballerup Municipality
 165.225.206.26:10587::Poland::Mazovia::Warsaw
+165.225.204.23:10640::France::Île-de-France::Paris
+51.79.50.46:9300::Netherlands::North Holland::Alkmaar
+165.225.81.243:10587::United Kingdom::England::Hedge End
 165.225.90.26:10587::Russia::Moscow::Moscow
 165.225.20.26:10587::France::Île-de-France::Paris
-165.225.204.25:10587::France::Île-de-France::Paris
-165.225.90.23:10587::Russia::Moscow::Moscow
-165.225.12.24:10587::Belgium::Flanders::Boechout
-165.225.80.41:10587::United Kingdom::Scotland::Cumbernauld
-165.225.81.243:10587::United Kingdom::England::Larkfield
-165.225.21.234:10587::France::Île-de-France::Paris
-121.254.195.12:8080::South Korea::Seoul::Yongsan-dong
-201.222.45.69:999::Chile::Santiago Metropolitan::La Pintana
+154.236.168.169:1981::Egypt::Cairo Governorate::Cairo
 61.200.81.20:20000::Japan::Tokyo::Chiyoda
-165.225.204.23:10640::France::Île-de-France::Paris
-158.69.71.245:9300::France::Auvergne-Rhone-Alpes::Lyon
+165.225.240.27:10587::Netherlands::North Holland::Amsterdam
+185.46.212.41:10587::Netherlands::North Holland::Amsterdam
+179.1.129.94:999::Colombia::Departamento de Tolima::Ibague
 147.161.188.24:10587::Sweden::Stockholm County::Stockholm
-157.100.53.102:999::Ecuador::Provincia de El Oro::Machala
-192.254.104.201:999::Puerto Rico::Humacao::Humacao
-101.51.55.153:8080::Thailand::Pathum Thani::Pathum Thani
-182.253.6.236:8080::Indonesia::West Java::Cibuntu
-202.53.171.114:80::Bangladesh::Rajshahi Division::Pabna Sadar
-190.217.7.73:999::Venezuela::Distrito Federal::Caracas
-95.214.123.200:8080::Hungary::Bács-Kiskun::Kecskemét
-38.130.249.129:999::Dominican Republic::Provincia de Santo Domingo::Santo Domingo Este
-45.189.254.10:999::Mexico::Veracruz::Alvarado
-117.54.11.85:3128::Indonesia::Jakarta::Jakarta
-206.62.163.104:999::Venezuela::Zulia::Maracaibo
-45.189.254.82:999::Mexico::Veracruz::Alvarado
-45.70.15.5:8080::Ecuador::Provincia del Guayas::Guayaquil
-181.129.245.124:999::Colombia::Departamento del Valle del Cauca::Santiago de Cali
-117.102.75.13:9999::Indonesia::East Java::Kediri
-105.28.176.41:9812::South Africa::Gauteng::Johannesburg
-45.189.254.146:999::Mexico::Oaxaca::Tetela
-45.189.254.26:999::Mexico::Veracruz::Alvarado
-177.93.50.146:999::Colombia::Cundinamarca::Chia
-186.67.230.45:3128::Chile::Santiago Metropolitan::Santiago
-14.102.31.75:8080::India::Rajasthan::Jaipur
-172.96.169.33:9955::Puerto Rico::Bayamón::Bayamón
-180.180.171.123:8080::Thailand::Bangkok::Bangkok
 185.142.43.217:8080::Lebanon::Mohafazat Baalbek-Hermel::Bednâyel
-91.195.179.138:8080::Russia::Novosibirsk Oblast::Novosibirsk
-14.157.114.20:7890::Hong Kong::Sai Kung District::Tseung Kwan O
-103.152.232.14:8080::Indonesia::West Java::Subang
-103.37.141.69:80::China::Shandong::Qingdao
-181.115.67.3:999::Honduras::Departamento de Cortes::Cortes
-114.4.104.254:3128::Indonesia::Jakarta::Jakarta
-102.68.135.129:8080::Libya::Tripoli::Tripoli
-88.255.185.254:8080::Turkey::Istanbul::Istanbul
-177.87.168.101:53281::Brazil::Pernambuco::Recife
-146.196.106.34:8080::Indonesia::East Java::Surabaya
-101.231.166.98:443::China::Shanghai::Shanghai
+36.94.98.146:8080::Indonesia::Jakarta::Jakarta
+45.189.252.193:999::Mexico::Veracruz::Alvarado
+190.217.10.12:999::Venezuela::Distrito Federal::Caracas
 45.189.254.2:999::Mexico::Veracruz::Alvarado
-103.147.77.66:5003::Indonesia::West Nusa Tenggara::Sumbawa Besar
-185.182.222.178:8080::Iran::Tehran::Tehran
-103.170.97.60:8080::Indonesia::East Java::Pasuruan
+191.97.9.189:999::Colombia::Departamento del Huila::Neiva
+45.189.254.10:999::Mexico::Veracruz::Alvarado
+93.170.122.1:8080::Ukraine::Ivano-Frankivsk Oblast::Ivano-Frankivsk
+190.128.231.146:8080::Paraguay::Asuncion::Asunción
+45.189.254.26:999::Mexico::Veracruz::Alvarado
+185.108.140.69:8080::Bulgaria::Sofia-Capital::Sofia
+111.92.164.242:50249::Indonesia::West Java::Pasarkemis
+201.150.117.97:999::Mexico::Hidalgo::Actopan
+103.143.196.50:8080::Indonesia::Central Java::Karanganyar Wetankali
+84.204.40.155:8080::Russia::St.-Petersburg::St Petersburg
+103.147.77.66:5018::Indonesia::West Nusa Tenggara::Sumbawa Besar
+186.67.230.45:3128::Chile::Santiago Metropolitan::Santiago
+103.156.225.178:3128::Indonesia::West Java::Bogor
+180.178.111.220:8080::Indonesia::West Java::Pamanukan
+200.229.147.2:999::Honduras::Departamento de Francisco Morazan::Tegucigalpa
+14.207.145.80:9080::Thailand::Yala::Yala
+80.28.102.26:8080::Spain::Catalonia::Alcoletge
+45.175.160.45:999::Argentina::Mendoza::Maipu
+181.114.224.177:8080::Argentina::Buenos Aires::Mar del Plata
+103.37.141.69:80::China::Shandong::Qingdao
+114.4.104.254:3128::Indonesia::Jakarta::Jakarta
+45.189.113.15:999::Ecuador::Provincia del Guayas::Milagro
+38.130.249.129:999::Dominican Republic::Provincia de Santo Domingo::Santo Domingo Este
+185.135.193.38:3128::Poland::Greater Poland::Poznan
+118.67.219.153:8080::Bangladesh::Dhaka Division::Dhaka
 191.102.74.113:8080::Colombia::Departamento del Huila::Neiva
-45.172.111.22:999::Argentina::San Juan::Ramblon
-186.167.50.161:999::Venezuela::Yaracuy::Chivacoa
-180.183.244.166:8080::Thailand::Nakhon Ratchasima::Nakhon Ratchasima
