@@ -1,57 +1,63 @@
-181.48.23.250:8080::Colombia::Departamento del Valle del Cauca::Santiago de Cali
-119.110.72.2:3888::Indonesia::Jakarta::Jakarta
+165.225.80.217:10587::United Kingdom::England::London
+165.225.21.234:10587::France::Île-de-France::Paris
+165.225.20.24:10587::France::Île-de-France::Paris
+190.26.201.194:8080::Colombia::Bogota D.C.::Bogotá
+165.225.192.21:10587::Sweden::Stockholm County::Stockholm
+165.225.196.23:10640::United Kingdom::England::Manchester
+185.46.212.41:10587::Netherlands::North Holland::Amsterdam
+165.225.192.23:10587::Sweden::Stockholm County::Stockholm
+165.225.16.163:10587::United Kingdom::England::London
+165.225.76.46:10587::France::Île-de-France::Paris
+45.189.113.111:999::Ecuador::Provincia del Guayas::Milagro
+165.225.240.22:10587::Netherlands::North Holland::Amsterdam
+165.225.197.191:10640::United Kingdom::England::Manchester
+165.225.198.24:10587::United Kingdom::England::Manchester
+165.225.77.184:10587::France::Île-de-France::Paris
+165.225.194.23:10587::Denmark::Capital Region::Ballerup Municipality
 190.97.226.236:999::Venezuela::Barinas::Barinas
-103.207.1.82:8080::India::Tamil Nadu::Tirupur
-1.0.170.50:80::Thailand::Nakhon Pathom::Kamphaeng Saen
-101.200.122.7:22::None::None::None
-101.201.101.159:22::China::Beijing::Beijing
-36.94.142.163:8000::Indonesia::Jakarta::Jakarta
-103.159.90.42:83::India::Maharashtra::Navi Mumbai
-102.38.17.121:8080::Libya::Tripoli::Tripoli
-106.14.121.124:22::China::Shanghai::Shanghai
-120.79.45.32:33128::China::Guangdong::Shenzhen
-165.16.22.150:9999::Libya::Sha'biyat Banghazi::Benghazi
-125.25.33.64:8080::Thailand::Chiang Mai::Chiang Mai
-103.148.39.50:83::India::Karnataka::Bengaluru
-60.205.180.107:22::China::Beijing::Beijing
-125.25.206.28:8080::Thailand::Bangkok::Bangkok
-121.41.77.111:22::China::Zhejiang::Hangzhou
-94.154.18.2:9812::Poland::Subcarpathia::Pilzno
-105.19.63.217:9812::South Africa::Western Cape::Cape Town
-131.100.51.19:999::Colombia::Departamento del Caqueta::El Doncello
+89.250.152.76:8080::Russia::Tyumen’ Oblast::Tyumen
+124.71.153.13:8123::None::None::None
+113.160.159.160:19132::Vietnam::Hanoi::Hanoi
 179.40.95.5:999::Argentina::Santa Fe::San Vicente
-119.252.167.130:41890::Indonesia::West Java::Gandul
-82.64.228.168:3128::France::Île-de-France::Neuilly-sur-Marne
-190.107.224.150:3128::Chile::Santiago Metropolitan::Santiago
-45.190.249.100:8080::Brazil::Rio Grande do Sul::Passo Fundo
-123.163.55.123:3128::China::Henan::Zhoukou
-139.255.255.205:8081::Indonesia::West Java::Bandung
-103.141.52.218:8000::India::Maharashtra::Kudal
-103.199.156.49:40049::India::Uttarakhand::Khatima
-103.156.144.5:83::India::Gujarat::Gandhinagar
-187.111.160.8:42579::Brazil::Sao Paulo::Sorocaba
-102.68.128.210:8080::Libya::Tripoli::Tripoli
-78.188.118.100:10001::Turkey::Ordu::Ordu
-103.144.18.74:8080::Indonesia::East Java::Jember
-58.27.255.98:8080::Pakistan::Sindh::Karachi
-103.146.196.33:8080::Indonesia::East Java::Banyuwangi
-95.174.102.131:53281::Russia::Rostov Oblast::Taganrog
-176.88.168.187:8080::Turkey::Istanbul::Istanbul
-103.103.212.222:53281::India::Madhya Pradesh::Indore
-181.129.8.10:9090::Colombia::Antioquia::Medellín
-14.248.80.77:8080::Vietnam::Hanoi::Hanoi
-118.163.120.181:58837::Taiwan::New Taipei::New Taipei
+159.192.249.211:8080::Thailand::Bangkok::Bangkok
+212.49.92.213:8080::Kenya::Nairobi Province::Nairobi
+102.68.135.21:8080::Libya::Tripoli::Tripoli
+95.0.219.240:8080::Turkey::Kayseri::Kayseri
+120.79.45.32:33128::China::Guangdong::Shenzhen
+125.26.4.219:443::Thailand::Suphanburi::Don Chedi
+157.100.53.99:999::Ecuador::Provincia de El Oro::Machala
+201.77.108.225:999::Mexico::Chihuahua::Valle de Zaragoza
+83.174.218.83:8080::Russia::Bashkortostan Republic::Ufa
+190.128.231.146:8080::Paraguay::Asuncion::Asunción
+181.196.241.198:9100::Ecuador::Provincia del Guayas::Guayaquil
+115.96.208.124:8080::India::Maharashtra::Kalyan
+103.156.15.23:8181::Indonesia::South Sulawesi::Pinrang
+188.136.216.201:9080::Iran::Isfahan::Falāvarjān
+102.68.128.219:8080::Libya::Tripoli::Tripoli
+103.100.235.233:8080::Bangladesh::Dhaka Division::Dhaka
+183.89.9.6:8080::Thailand::Lampang::Ban Phrao
+159.224.243.185:37793::Ukraine::Dnipropetrovsk Oblast::Dnipro
+200.58.87.66:8080::Bolivia::Departamento de Cochabamba::Cochabamba
+213.207.195.178:8080::Iran::Tehran::Tajrīsh
+157.100.53.102:999::Ecuador::Provincia de El Oro::Machala
+189.51.4.254:45367::Brazil::Sao Paulo::São Paulo
+45.172.108.42:999::Argentina::San Juan::Caucete
 103.162.152.5:8085::Indonesia::Riau::Batam
-45.5.92.94:8137::Mexico::Coahuila::Monclova
-163.53.209.7:6666::India::Gujarat::Modasa
-111.90.177.54:8080::Cambodia::Phnom Penh::Phnom Penh
-122.3.41.154:8090::Philippines::Calabarzon::Dasmarinas
-1.179.136.98:8080::Thailand::Bangkok::Khwaeng Thung Song Hong
-201.91.82.155:3128::Brazil::Sao Paulo::São Paulo
-181.224.255.42:8080::Peru::Lima::Lima
-171.100.219.180:8080::Thailand::Bangkok::Bangkok
-187.188.108.114:8080::Mexico::Mexico City::Mexico City
-103.38.5.226:83::India::Bihar::Samastipur
-181.78.19.196:999::Colombia::Departamento del Cesar::El Paso
-103.236.193.241:83::India::Telangana::Hyderabad
-119.76.142.202:8080::Thailand::Nakhon Ratchasima::Nakhon Ratchasima
+201.222.45.69:999::Chile::Santiago Metropolitan::La Pintana
+139.255.74.125:8080::Indonesia::West Java::Cibuntu
+77.46.138.49:8080::Serbia::Central Serbia::Preševo
+94.231.178.249:9797::Ukraine::Ternopil Oblast::Ternopil
+131.108.220.57:45005::Brazil::Sergipe::Nossa Senhora do Socorro
+172.97.119.193:8181::United States::Indiana::Attica
+139.198.157.59:7890::None::None::None
+103.216.145.203:6666::India::Maharashtra::Mumbai
+110.74.195.34:25::Cambodia::Phnom Penh::Phnom Penh
+43.243.141.54:8080::Indonesia::Jakarta::Jakarta
+217.73.128.160:60000::Albania::Qarku i Durresit::Durrës
+201.222.45.64:999::Chile::Santiago Metropolitan::La Pintana
+151.22.181.212:8080::Italy::Lombardy::Rho
+123.163.55.123:3128::China::Henan::Zhoukou
+201.71.2.107:999::Venezuela::Distrito Federal::Caracas
+58.27.255.98:8080::Pakistan::Sindh::Karachi
+190.109.16.145:999::Colombia::Departamento de Tolima::Ibague
+62.69.212.197:8090::Poland::West Pomerania::Szczecin
