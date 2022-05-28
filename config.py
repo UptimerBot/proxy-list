@@ -59,6 +59,7 @@ HTTP_SOURCES = (
     "https://raw.githubusercontent.com/mmpx12/proxy-list/master/http.txt",
     "https://www.proxy-list.download/api/v1/get?type=http",
     "http://pubproxy.com/api/proxy?type=http&format=txt&limit=5",
+    "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt",
     os.getenv('PROXY11_URL'),
 )
 SOCKS4 = True
@@ -74,6 +75,7 @@ SOCKS4_SOURCES = (
     "https://www.proxyscan.io/download?type=socks4",
     "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks4.txt",
     "https://raw.githubusercontent.com/User-R3X/proxy-list/main/online/socks4.txt",
+    "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks4.txt",
 )
 SOCKS5 = True
 SOCKS5_SOURCES = (
@@ -90,4 +92,5 @@ SOCKS5_SOURCES = (
     "https://www.proxyscan.io/download?type=socks5",
     "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks5.txt",
     "https://raw.githubusercontent.com/User-R3X/proxy-list/main/online/socks5.txt",
+    "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks5.txt",
 )
