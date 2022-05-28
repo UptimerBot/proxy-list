@@ -1,35 +1,28 @@
-165.225.20.24:10587::France::Île-de-France::Paris
-165.225.21.234:10587::France::Île-de-France::Paris
-165.225.196.23:10640::United Kingdom::England::Manchester
-147.161.172.24:10587::Netherlands::North Holland::Amsterdam
-165.225.194.23:10587::Denmark::Capital Region::Ballerup Municipality
-165.225.198.24:10587::United Kingdom::England::Manchester
-165.225.240.22:10587::Netherlands::North Holland::Amsterdam
-165.225.206.26:10587::Poland::Mazovia::Warsaw
-165.225.12.24:10587::Belgium::Flanders::Boechout
-165.225.204.23:10640::France::Île-de-France::Paris
-165.225.197.191:10640::United Kingdom::England::Manchester
-147.161.188.24:10587::Sweden::Stockholm County::Stockholm
-165.225.194.27:10587::Denmark::Capital Region::Ballerup Municipality
-165.225.90.26:10587::Russia::Moscow::Moscow
-165.225.90.23:10587::Russia::Moscow::Moscow
-185.46.212.41:10587::Netherlands::North Holland::Amsterdam
-102.68.128.219:8080::Libya::Tripoli::Tripoli
 165.225.240.27:10587::Netherlands::North Holland::Amsterdam
+165.225.77.184:10587::France::Île-de-France::Paris
 165.225.12.22:10587::Belgium::Flanders::Boechout
+165.225.194.23:10587::Denmark::Capital Region::Ballerup Municipality
+165.225.204.25:10587::France::Île-de-France::Paris
+165.225.198.24:10587::United Kingdom::England::Manchester
+165.225.206.26:10587::Poland::Mazovia::Warsaw
+147.161.188.24:10587::Sweden::Stockholm County::Stockholm
+165.225.81.243:10587::United Kingdom::England::London
+165.225.20.24:10587::France::Île-de-France::Paris
+165.225.196.23:10640::United Kingdom::England::Manchester
 213.52.102.11:10640::Norway::Oslo County::Oslo
+131.108.220.57:45005::Brazil::Sergipe::Nossa Senhora do Socorro
 190.97.226.236:999::Venezuela::Barinas::Barinas
-165.225.16.163:10587::United Kingdom::England::London
-165.225.20.26:10587::France::Île-de-France::Paris
-87.245.209.76:8080::United Kingdom::England::City of London
-114.4.104.254:3128::Indonesia::Jakarta::Jakarta
-200.110.214.129:9080::Argentina::Buenos Aires::Berazategui
-201.222.45.69:999::Chile::Santiago Metropolitan::La Pintana
-190.14.238.197:999::Colombia::Cundinamarca::Facatativá
+200.39.63.206:999::Dominican Republic::Provincia de Monte Cristi::Castanuelas
+165.225.194.27:10587::Denmark::Capital Region::Ballerup Municipality
+201.71.2.107:999::Venezuela::Distrito Federal::Caracas
+177.242.151.136:8080::Mexico::Oaxaca::San Juan Bautista Tuxtla
+103.11.106.228:8181::Indonesia::East Java::Magetan
+201.158.47.66:8080::Brazil::Sao Paulo::São Paulo
+190.12.68.86:999::Peru::Lima::Lima
+185.135.193.38:3128::Poland::Greater Poland::Poznan
+89.203.235.110:9999::Czechia::Hlavni mesto Praha::Prague
+177.107.194.169:8080::Brazil::Rio de Janeiro::Rio de Janeiro
 45.164.60.138:53281::Brazil::Sao Paulo::Rio das Pedras
-45.166.144.2:999::Chile::Santiago Metropolitan::Santiago
-103.172.70.153:8080::Indonesia::West Java::Karawang
-201.77.110.129:999::Mexico::Chihuahua::Cuauhtemoc
-45.88.99.29:999::Dominican Republic::Provincia de Santiago::Santiago de los Caballeros
-190.205.101.54:999::Venezuela::Carabobo::Valencia
-177.93.50.146:999::Colombia::Cundinamarca::Chia
+102.38.14.157:8080::Libya::Tripoli::Tripoli
+103.15.60.23:8080::India::Telangana::Hyderabad
+201.71.2.41:999::Venezuela::Distrito Federal::Caracas
