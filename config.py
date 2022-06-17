@@ -4,7 +4,7 @@ import os
 # How many seconds to wait for the proxy to make a connection.
 # The higher this number, the longer the check will take
 # and the more proxies you will receive.
-TIMEOUT = 5
+TIMEOUT = 6
 
 # Maximum concurrent connections.
 # Don't set higher than 900, please.
