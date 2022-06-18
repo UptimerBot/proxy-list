@@ -1,42 +1,55 @@
 205.155.45.139:3128::United States::California::Gonzales
+38.130.249.129:999::Dominican Republic::Provincia de Santo Domingo::Santo Domingo Este
 34.145.226.144:8080::United States::Washington, D.C.::Washington
-181.232.190.209:999::Dominican Republic::Provincia de Santo Domingo::Santo Domingo Este
-45.189.113.15:999::Ecuador::Provincia del Guayas::Milagro
-167.235.63.238:3128::United States::Illinois::Chicago
-223.71.195.72:9091::China::Beijing::Beijing
-166.111.50.207:4780::Taiwan::Taipei City::Taipei
-114.4.104.254:3128::Indonesia::Jakarta::Jakarta
-158.69.52.218:9300::Sweden::Stockholm County::Varsta
-157.100.53.100:999::Ecuador::Provincia de El Oro::Machala
-181.209.111.147:999::Argentina::Buenos Aires::Benavidez
-95.214.123.200:8080::Hungary::Bács-Kiskun::Kecskemét
-158.69.64.142:9300::Germany::Land Berlin::Berlin
-41.138.168.2:8080::Nigeria::Lagos::Lagos
-202.4.116.243:8080::Bangladesh::Dhaka Division::Dhaka
-116.197.155.113:8080::India::Uttar Pradesh::Agra
-103.11.106.148:8181::Indonesia::East Java::Madiun
-131.161.53.38:1994::Honduras::Departamento de Cortes::San Pedro Sula
-103.15.60.23:8080::India::Telangana::Hyderabad
-8.242.150.90:999::Colombia::Departamento del Valle del Cauca::Santiago de Cali
-177.53.153.169:999::Peru::Lima::Lima
-103.153.232.1:8080::Nepal::Lumbini Province::Lumbini
-190.94.199.14:999::Venezuela::Distrito Federal::Caracas
-182.176.164.41:8080::Pakistan::Punjab::Lahore
-103.205.183.18:55443::Bangladesh::Dhaka Division::Dhaka
+190.217.13.254:999::Venezuela::Distrito Federal::Caracas
+94.242.54.119:3128::Russia::St.-Petersburg::St Petersburg
+45.189.113.63:999::Ecuador::Provincia del Guayas::Milagro
+177.93.50.236:999::Colombia::Departamento del Guaviare::San José del Guaviare
+190.217.10.12:999::Venezuela::Distrito Federal::Caracas
+122.224.56.198:7302::None::None::None
+45.172.111.14:999::Argentina::San Juan::Caucete
+200.114.84.76:8080::Argentina::Buenos Aires::City Bell
+119.123.245.28:9000::China::Guangdong::Shenzhen
 45.167.124.5:9992::Colombia::Departamento del Cauca::Popayán
-45.70.15.4:8080::Ecuador::Provincia del Guayas::Guayaquil
-117.1.134.64:6666::Vietnam::Hanoi::Hanoi
-190.2.210.250:999::United States::California::El Centro
-177.93.33.246:999::Colombia::Departamento de Narino::Pasto
-45.5.57.124:8080::Peru::Callao::Callao
-157.100.52.146:999::Ecuador::Provincia de Los Rios::Baba
-131.100.51.46:999::Colombia::Departamento del Caqueta::San Vicente del Caguan
-201.71.2.107:999::Venezuela::Distrito Federal::Caracas
-79.129.147.177:8080::Greece::Thessaly::Trikala
-177.53.153.170:999::Peru::Lima::Lima
-36.94.174.244:8080::Indonesia::Jakarta::Jakarta
-201.77.108.130:999::Mexico::Chihuahua::Jimenez
-106.0.48.130:8080::Indonesia::Riau Islands::Tanjung Pinang
-103.151.247.49:10001::Indonesia::West Sulawesi::Mamuju
-79.127.56.148:8080::Iran::Razavi Khorasan::Mashhad
-185.108.141.19:8080::Bulgaria::Sofia-Capital::Sofia
+190.71.27.178:999::Colombia::Antioquia::Medellín
+181.78.24.26:999::Colombia::Quindio Department::Calarcá
+172.97.119.193:8181::United States::Indiana::Veedersburg
+223.71.195.72:9091::China::Beijing::Beijing
+187.102.236.209:999::Mexico::Chihuahua::Parral
+103.11.106.85:8085::Indonesia::East Java::Madiun
+177.23.54.10:6006::Brazil::Rio Grande do Sul::Imigrante
+103.48.71.123:83::India::Telangana::Hyderabad
+103.178.43.2:8181::Indonesia::Jakarta::Jakarta
+190.109.6.115:999::Colombia::Bogota D.C.::Bogotá
+144.217.240.185:9300::Switzerland::Zurich::Zurich
+36.95.15.148:8080::Indonesia::Jakarta::Slipi
+102.38.5.161:8080::Libya::Tripoli::Tripoli
+177.53.153.171:999::Peru::Lima::Lima
+8.242.150.93:999::Colombia::Departamento del Valle del Cauca::Santiago de Cali
+185.142.43.217:8080::Lebanon::Mohafazat Baalbek-Hermel::Bednâyel
+45.173.6.58:999::Colombia::Cundinamarca::Zipaquirá
+103.100.235.233:8080::Bangladesh::Dhaka Division::Dhaka
+179.42.145.23:8081::Brazil::Amazonas::Manaus
+119.10.181.54:1080::Indonesia::Jakarta::Jakarta
+45.185.206.76:999::Argentina::Rio Negro::Cipolletti
+45.190.79.160:999::Mexico::Jalisco::Yahualica de Gonzalez Gallo
+45.174.79.189:999::Mexico::Chihuahua::Ciudad Delicias
+103.147.77.66:5021::Indonesia::West Nusa Tenggara::Sumbawa Besar
+186.154.211.106:999::Colombia::Departamento del Valle del Cauca::Santiago de Cali
+136.243.9.13:45678::Netherlands::North Holland::Amsterdam
+38.104.176.34:999::United States::Texas::McAllen
+190.120.248.4:999::Venezuela::Carabobo::Valencia
+103.242.105.86:3128::Indonesia::West Java::Karawang
+200.39.136.130:999::Chile::Region de Valparaiso::Valparaíso
+103.133.24.97:8181::Indonesia::West Java::Pajajaran
+91.221.240.20:1515::Iran::Tehran::Tehran
+190.113.43.66:999::Dominican Republic::Provincia de Santo Domingo::Santo Domingo Este
+45.174.77.1:999::Mexico::Chihuahua::Chihuahua City
+113.73.24.181:9797::China::Guangdong::Guangzhou
+58.254.141.70:8998::Hong Kong::Central and Western District::Central
+186.194.160.66:999::Colombia::Bogota D.C.::Bogotá
+157.100.53.110:999::Ecuador::Provincia de El Oro::Machala
+104.37.102.181:8181::United States::Indiana::Veedersburg
+89.203.235.110:9999::Czechia::Central Bohemia::Brandys nad Labem-Stara Boleslav
+182.253.197.70:8080::Indonesia::West Java::Bandung
+103.114.11.197:8080::Bangladesh::Chittagong::Chittagong
