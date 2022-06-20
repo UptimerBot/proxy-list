@@ -1,7 +1,7 @@
 None: 'NoneType' object has no attribute 'strip'
-https://www.proxyscan.io/download?type=http: Cannot connect to host 
-www.proxyscan.io:443 ssl:default [Temporary failure in name resolution]
 https://www.proxyscan.io/download?type=https: Cannot connect to host 
+www.proxyscan.io:443 ssl:default [Temporary failure in name resolution]
+https://www.proxyscan.io/download?type=http: Cannot connect to host 
 www.proxyscan.io:443 ssl:default [Temporary failure in name resolution]
 https://www.proxyscan.io/download?type=socks4: Cannot connect to host 
 www.proxyscan.io:443 ssl:default [Temporary failure in name resolution]
@@ -10,15 +10,15 @@ www.proxyscan.io:443 ssl:default [Temporary failure in name resolution]
 Scraper :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [24/24] 00:00
 Scraper :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [12/12] 00:00
 Scraper :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [14/14] 00:00
-Checker :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [3255/3255] 00:00
-Checker :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [4332/4332] 00:00
-Checker :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [1277/1277] 00:00
-┏━━━━━━━━━━┳━━━━━━━━━━━━┳━━━━━━━┓
-┃ Protocol ┃ Working    ┃ Total ┃
-┡━━━━━━━━━━╇━━━━━━━━━━━━╇━━━━━━━┩
-│ HTTP     │ 111 (3.4%) │ 3255  │
-│ SOCKS4   │ 193 (4.5%) │ 4332  │
-│ SOCKS5   │ 88 (6.9%)  │ 1277  │
-└──────────┴────────────┴───────┘
+Checker :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [3280/3280] 00:00
+Checker :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [4344/4344] 00:00
+Checker :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [1264/1264] 00:00
+┏━━━━━━━━━━┳━━━━━━━━━━━━━┳━━━━━━━┓
+┃ Protocol ┃ Working     ┃ Total ┃
+┡━━━━━━━━━━╇━━━━━━━━━━━━━╇━━━━━━━┩
+│ HTTP     │ 217 (6.6%)  │ 3280  │
+│ SOCKS4   │ 216 (5.0%)  │ 4344  │
+│ SOCKS5   │ 143 (11.3%) │ 1264  │
+└──────────┴─────────────┴───────┘
 Proxy folders have been created in the /home/runner/work/proxy-list/proxy-list 
 folder.
