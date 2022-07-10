@@ -1,16 +1,25 @@
 None: 'NoneType' object has no attribute 'strip'
+https://www.proxyscan.io/download?type=http: Cannot connect to host 
+www.proxyscan.io:443 ssl:default [Temporary failure in name resolution]
+https://www.proxyscan.io/download?type=https: Cannot connect to host 
+www.proxyscan.io:443 ssl:default [Temporary failure in name resolution]
+https://www.proxyscan.io/download?type=socks4: Cannot connect to host 
+www.proxyscan.io:443 ssl:default [Temporary failure in name resolution]
+https://www.proxyscan.io/download?type=socks5: Cannot connect to host 
+www.proxyscan.io:443 ssl:default [Temporary failure in name resolution]
+https://www.proxy-list.download/api/v1/get?type=http: 
 Scraper :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [24/24] 00:00
 Scraper :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [12/12] 00:00
 Scraper :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [14/14] 00:00
-Checker :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [2854/2854] 00:00
-Checker :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [2765/2765] 00:00
-Checker :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [1153/1153] 00:00
-┏━━━━━━━━━━┳━━━━━━━━━━━━━┳━━━━━━━┓
-┃ Protocol ┃ Working     ┃ Total ┃
-┡━━━━━━━━━━╇━━━━━━━━━━━━━╇━━━━━━━┩
-│ HTTP     │ 150 (5.3%)  │ 2854  │
-│ SOCKS4   │ 283 (10.2%) │ 2765  │
-│ SOCKS5   │ 154 (13.4%) │ 1153  │
-└──────────┴─────────────┴───────┘
+Checker :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [2770/2770] 00:00
+Checker :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [2713/2713] 00:00
+Checker :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [1092/1092] 00:00
+┏━━━━━━━━━━┳━━━━━━━━━━━━┳━━━━━━━┓
+┃ Protocol ┃ Working    ┃ Total ┃
+┡━━━━━━━━━━╇━━━━━━━━━━━━╇━━━━━━━┩
+│ HTTP     │ 158 (5.7%) │ 2770  │
+│ SOCKS4   │ 223 (8.2%) │ 2713  │
+│ SOCKS5   │ 89 (8.2%)  │ 1092  │
+└──────────┴────────────┴───────┘
 Proxy folders have been created in the /home/runner/work/proxy-list/proxy-list 
 folder.
