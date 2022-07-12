@@ -1,58 +1,51 @@
-51.79.50.31:9300::Netherlands::Flevoland::Dronten
+144.76.241.45:7890::Netherlands::North Holland::Amsterdam
+158.69.52.218:9300::Germany::Bavaria::Nuremberg
 221.178.239.200:7302::None::None::None
+114.129.23.58:3128::Indonesia::Jakarta::Jakarta
+154.236.168.169:1981::Egypt::Cairo Governorate::Cairo
 204.199.174.67:999::Peru::Arequipa::Arequipa
 200.146.77.133:80::Brazil::Parana::Curitiba
-200.229.147.2:999::Honduras::Departamento de Comayagua::Comayagua
-45.189.254.10:999::Mexico::Veracruz::Alvarado
-45.225.184.177:999::Chile::Santiago Metropolitan::Melipilla
-129.226.173.100:7890::Hong Kong::Central and Western District::Central
-101.53.154.137:2007::Netherlands::Flevoland::Dronten
-191.97.9.189:999::Colombia::Departamento de Tolima::Fresno
-187.190.252.248:999::Mexico::Mexico City::Mexico City
-116.197.134.98:8080::Indonesia::Jakarta::Jakarta
-190.109.16.145:999::Colombia::Departamento de Tolima::Ibague
 181.205.20.198:999::Colombia::Antioquia::Medellín
-157.100.53.102:999::Ecuador::Provincia de El Oro::Machala
-103.168.44.113:8080::Indonesia::Central Java::Wiradesa
-45.190.79.176:999::Mexico::Jalisco::Yahualica de Gonzalez Gallo
-103.174.238.221:3125::Indonesia::West Java::Indramayu
-190.131.250.105:999::Colombia::Departamento del Valle del Cauca::Santiago de Cali
-45.190.79.160:999::Mexico::Jalisco::Yahualica de Gonzalez Gallo
-91.93.118.3:8090::Turkey::Istanbul::Istanbul
-45.170.100.9:999::Chile::Santiago Metropolitan::Buin
-102.68.128.219:8080::Libya::Tripoli::Tripoli
-168.90.15.177:999::Colombia::Bogota D.C.::Bogotá
-196.221.149.220:1981::Egypt::Cairo Governorate::Cairo
-189.203.10.116:999::Mexico::Hidalgo::San Bartolo Tutotepec
-181.129.52.155:42648::Colombia::Antioquia::Medellín
-120.89.90.250:3125::Indonesia::Jakarta::Cideng
-177.125.169.6:55443::Brazil::Sao Paulo::Ribeirao Pires
-85.221.247.234:8080::Poland::Greater Poland::Tarnowo Podgorne
-177.136.32.214:45005::Brazil::Sao Paulo::São Paulo
-187.188.17.138:1994::Mexico::Querétaro::Querétaro City
-186.125.235.101:999::Argentina::Tucuman::Monteros
-181.49.217.254:8080::Colombia::Departamento del Caqueta::La Montanita
-201.71.2.41:999::Venezuela::Distrito Federal::Caracas
-103.178.43.2:8181::Indonesia::Jakarta::Jakarta
-195.248.240.65:8080::Germany::Hesse::Frankfurt am Main
-152.44.40.139:5566::United States::New York::Brooklyn
-103.144.115.197:8080::India::Bihar::Reula
+181.205.20.197:999::Colombia::Antioquia::Medellín
+213.136.101.37:3128::Ivory Coast::Abidjan::Abidjan
+199.66.157.113:8080::United States::Oklahoma::Haileyville
+103.156.128.245:8080::Indonesia::East Java::Malang
+114.245.35.47:8118::United States::California::Los Angeles
+190.109.205.253:999::Honduras::Departamento de Olancho::Juticalpa
+193.123.104.244:3128::Brazil::Sao Paulo::Vinhedo
+177.75.96.74:3128::Brazil::Parana::Pato Branco
+103.179.252.2:8181::Indonesia::West Java::Kedaung
 181.205.20.195:999::Colombia::Antioquia::Medellín
-37.252.73.192:8080::Armenia::Tavush::Noyemberyan
-139.255.25.84:3128::Indonesia::Jakarta::Gambir
-167.172.172.234:46565::United States::Texas::Austin
-201.217.247.166:999::Argentina::Chaco::Resistencia
-157.100.53.110:999::Ecuador::Provincia de El Oro::Machala
-103.29.185.189:8080::Indonesia::Jakarta::Jakarta
-115.124.85.20:8080::Indonesia::West Java::Bekasi
-139.255.255.205:8081::Indonesia::West Java::Bandung
-216.176.187.99:8886::United States::District of Columbia::Washington
-103.247.121.158:37777::Indonesia::Jakarta::Jakarta
-103.159.196.215:1085::Indonesia::West Java::Mekarsari
-103.215.177.212:80::Indonesia::Central Java::Jepara
-45.175.160.141:999::Argentina::Mendoza::Tunuyan
-103.48.68.34:83::India::Telangana::Hyderabad
-102.38.5.161:8080::Libya::Tripoli::Tripoli
-200.54.25.226:8080::Chile::Santiago Metropolitan::Maipu
-190.185.116.161:999::Honduras::Departamento de Cortes::San Pedro Sula
-103.130.70.209:83::India::West Bengal::Siliguri
+167.235.63.238:3128::United States::New Jersey::Secaucus
+167.172.173.210:33633::United States::Texas::Austin
+114.4.104.254:3128::Indonesia::Jakarta::Jakarta
+179.40.95.39:999::Argentina::Buenos Aires::Zárate
+137.74.90.233:8282::France::Hauts-de-France::Gravelines
+190.94.199.14:999::Venezuela::Distrito Federal::Caracas
+45.189.254.10:999::Mexico::Veracruz::Alvarado
+45.7.135.233:999::Colombia::Bogota D.C.::Bogotá
+45.179.184.121:8083::Brazil::Mato Grosso do Sul::Cassilandia
+45.189.117.237:999::Peru::Lima::Lima
+12.144.254.185:9080::United States::Arkansas::Little Rock
+201.150.116.49:999::Mexico::Hidalgo::Atitalaquia
+45.190.79.164:999::Mexico::Jalisco::Yahualica de Gonzalez Gallo
+175.111.129.155:8080::India::Rajasthan::Jaipur
+45.70.15.7:8080::Ecuador::Provincia del Chimborazo::Alausi
+200.32.80.54:999::Colombia::Departamento de Narino::Tuquerres
+103.152.232.234:8080::Indonesia::West Java::Subang
+190.82.91.203:999::Chile::Santiago Metropolitan::Santiago
+177.242.151.133:8080::Mexico::Oaxaca::San Juan Bautista Tuxtla
+46.8.216.203:3125::Russia::Krasnodarskiy Kray::Slavyansk-na-Kubani
+103.199.84.122:8080::Bangladesh::Sylhet Division::Sylhet
+190.97.225.41:999::Venezuela::Barinas::Barinas
+102.68.135.157:8080::Libya::Tripoli::Tripoli
+190.90.242.208:999::Colombia::Departamento de Norte de Santander::Ocaña
+103.29.185.54:8181::Indonesia::North Sumatra::Medan
+181.225.54.3:999::Venezuela::Carabobo::Valencia
+45.190.79.160:999::Mexico::Jalisco::Yahualica de Gonzalez Gallo
+202.29.237.213:3128::Thailand::Bangkok::Bangkok
+103.169.186.130:3125::Indonesia::East Java::Pasuruan
+14.207.57.172:8080::Thailand::Bangkok::Bangkok
+161.22.34.121:8080::Venezuela::Distrito Federal::Caracas
+103.30.246.41:8888::Indonesia::Yogyakarta::Yogyakarta
+201.71.2.41:999::Venezuela::Distrito Federal::Caracas
