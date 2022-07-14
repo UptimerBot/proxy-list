@@ -2,7 +2,7 @@
 
 A list of scrapped public proxies that is updated every 15 minutes.
 
-[![proxy-list-scraper](https://github.com/UptimerBot/proxy-list/actions/workflows/main.yml/badge.svg)](https://github.com/UptimerBot/proxy-list/actions/workflows/main.yml)
+[![proxy-list-scraper](https://github.com/UptimerBot/proxy-list/actions/workflows/proxy-list-scraper.yml/badge.svg)](https://github.com/UptimerBot/proxy-list/actions/workflows/proxy-list-scraper.yml)
 [![Update frequency](https://img.shields.io/badge/Update%20frequency-every%2015%20minutes-brightgreen)](#)    [![Last updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FUptimerBot%2Fproxy-list%2Fmain%2Fbadge-date.json)](#)    
 
 ### Download
