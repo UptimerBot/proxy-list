@@ -1,38 +1,58 @@
-158.69.72.138:9300::Germany::Land Berlin::Berlin
-144.76.60.58:8118::Sweden::Stockholm::Stockholm
-200.114.83.246:8080::Argentina::Buenos Aires::La Plata
-221.178.239.200:7302::None::None::None
-204.199.174.74:999::Peru::Arequipa::Arequipa
-204.199.174.67:999::Peru::Arequipa::Arequipa
-204.199.174.69:999::Peru::Arequipa::Arequipa
-204.199.174.66:999::Peru::Arequipa::Arequipa
-103.133.26.107:8181::Indonesia::Central Java::Kudus
-154.83.29.204:999::Venezuela::Barinas::Barinas
-45.181.122.74:999::Chile::Santiago Metropolitan::Santiago
-190.71.27.178:999::Colombia::Antioquia::Medellín
-103.48.68.34:83::India::Telangana::Hyderabad
-158.69.52.218:9300::Germany::Land Berlin::Berlin
-181.174.224.35:999::Peru::Lima::Lima
-103.29.185.54:8181::Indonesia::North Sumatra::Medan
-154.83.29.206:999::Venezuela::Barinas::Barinas
-103.166.10.9:8181::Indonesia::East Java::Tulungagung
-147.135.134.57:9300::Sweden::Stockholm County::Stockholm
-154.83.29.201:999::Venezuela::Barinas::Barinas
+131.161.53.38:1994::Honduras::Departamento de Cortes::San Pedro Sula
 154.83.29.200:999::Venezuela::Barinas::Barinas
-187.109.40.193:20183::Brazil::Sao Paulo::São Paulo
-103.153.40.38:8080::Indonesia::Jakarta::Jakarta
-103.124.198.182:3125::Indonesia::Riau::Batam
-109.201.9.100:8080::Iran::Tehran::Tehran
-191.97.16.113:999::Venezuela::Distrito Federal::Caracas
-45.182.22.54:999::Honduras::Departamento de Cortes::San Pedro Sula
+154.83.29.204:999::Venezuela::Barinas::Barinas
 154.83.29.203:999::Venezuela::Barinas::Barinas
-190.217.10.12:999::Venezuela::Distrito Federal::Caracas
+154.83.29.201:999::Venezuela::Barinas::Barinas
+61.182.213.83:7302::None::None::None
+101.205.122.115:7302::None::None::None
+190.97.225.41:999::Venezuela::Barinas::Barinas
+154.83.29.206:999::Venezuela::Barinas::Barinas
+200.24.157.119:999::Ecuador::Provincia del Canar::Azogues
+185.82.99.148:8099::Lebanon::Mohafazat Liban-Nord::Tripoli
+122.224.56.198:7302::None::None::None
+180.210.184.226:8080::Bangladesh::Dhaka Division::Dhaka
+181.225.54.3:999::Venezuela::Carabobo::Valencia
+114.4.104.254:3128::Indonesia::Jakarta::Jakarta
+45.181.122.74:999::Chile::Santiago Metropolitan::Santiago
+179.40.95.39:999::Argentina::Buenos Aires::Zárate
+138.219.244.128:6666::Brazil::Bahia::Salvador
+103.114.98.217:6000::Bangladesh::Chittagong::Lakshmipur
+206.161.97.4:31337::Japan::Tokyo::Chiyoda
+121.101.133.73:8080::Indonesia::Central Java::Klaten
+103.48.69.193:83::India::Telangana::Hyderabad
 95.38.80.36:8050::Iran::Tehran::Tehran
-36.94.58.243:8080::Indonesia::West Java::Bandung
-45.189.254.10:999::Mexico::Veracruz::Alvarado
-200.114.87.229:8080::Argentina::Buenos Aires::Florencio Varela
-201.71.2.110:999::Venezuela::Miranda::Caracas
-121.36.190.122:8080::China::Beijing::Beijing
-45.189.112.129:999::Ecuador::Provincia del Guayas::Pedro Carbo
-121.101.133.61:8080::Indonesia::Central Java::Klaten
-185.226.134.8:9090::Iran::Bushehr Province::Bandar-e ‘Asalūyeh
+180.180.171.123:8080::Thailand::Bangkok::Bangkok
+204.199.174.74:999::Peru::Arequipa::Arequipa
+217.219.28.117:3128::Iran::Kerman::Rafsanjan
+103.42.161.9:8080::India::Maharashtra::Bharam
+204.199.174.66:999::Peru::Arequipa::Arequipa
+202.53.171.114:80::Bangladesh::Dhaka Division::Dhaka
+5.167.141.239:3128::Russia::Tula Oblast::Tula
+45.176.164.65:999::Chile::Ñuble::Pemuco
+103.47.175.161:83::India::Uttar Pradesh::Aligarh
+204.199.174.72:999::Peru::Arequipa::Arequipa
+204.199.174.75:999::Peru::Arequipa::Arequipa
+80.89.198.229:80::None::None::None
+162.219.119.225:8080::United States::Arkansas::Knobel
+197.211.45.4:10000::United Kingdom::England::London
+103.155.156.10:8080::Indonesia::West Java::Mekarsari
+190.109.205.253:999::Honduras::Departamento de Olancho::Juticalpa
+79.253.201.252:8080::Germany::Bavaria::Freilassing
+181.115.67.3:999::Honduras::Departamento de Cortes::San Pedro Sula
+190.83.12.231:999::Ecuador::Provincia de Loja::Loja
+190.110.99.210:999::Chile::Atacama::Copiapó
+45.5.57.124:8080::Peru::Loreto::Iquitos
+181.209.86.186:8080::Argentina::Santiago del Estero::Santiago del Estero
+45.225.123.92:45005::Brazil::Bahia::Cicero Dantas
+157.100.53.106:999::Ecuador::Provincia de El Oro::Machala
+38.130.249.129:999::Dominican Republic::Provincia de Santo Domingo::Santo Domingo Este
+181.78.94.168:999::Paraguay::Asuncion::Asunción
+190.103.28.164:3128::Venezuela::Carabobo::Valencia
+111.92.164.242:50249::Indonesia::West Java::Bandung
+204.199.174.67:999::Peru::Arequipa::Arequipa
+154.64.211.145:999::Puerto Rico::Corozal::Corozal
+200.229.147.2:999::Honduras::Departamento de Comayagua::Comayagua
+119.235.17.105:55443::Indonesia::Jakarta::Gambir
+191.97.16.118:999::Venezuela::Distrito Federal::Caracas
+132.255.210.113:999::El Salvador::Departamento de La Union::Santa Rosa de Lima
+200.24.146.68:999::Ecuador::Provincia de Esmeraldas::Esmeraldas
