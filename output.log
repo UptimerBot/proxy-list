@@ -1,18 +1,24 @@
 None: 'NoneType' object has no attribute 'strip'
-https://www.proxyscan.io/download?type=socks4: 
-https://www.proxyscan.io/download?type=https: 
+https://www.proxyscan.io/download?type=https: Cannot connect to host 
+www.proxyscan.io:443 ssl:default [Temporary failure in name resolution]
+https://www.proxyscan.io/download?type=http: Cannot connect to host 
+www.proxyscan.io:443 ssl:default [Temporary failure in name resolution]
+https://www.proxyscan.io/download?type=socks4: Cannot connect to host 
+www.proxyscan.io:443 ssl:default [Temporary failure in name resolution]
+https://www.proxyscan.io/download?type=socks5: Cannot connect to host 
+www.proxyscan.io:443 ssl:default [Temporary failure in name resolution]
 Scraper :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [24/24] 00:00
 Scraper :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [12/12] 00:00
 Scraper :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [14/14] 00:00
-Checker :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [2977/2977] 00:00
-Checker :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [4300/4300] 00:00
-Checker :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [1176/1176] 00:00
-┏━━━━━━━━━━┳━━━━━━━━━━━━┳━━━━━━━┓
-┃ Protocol ┃ Working    ┃ Total ┃
-┡━━━━━━━━━━╇━━━━━━━━━━━━╇━━━━━━━┩
-│ HTTP     │ 231 (7.8%) │ 2977  │
-│ SOCKS4   │ 250 (5.8%) │ 4300  │
-│ SOCKS5   │ 72 (6.1%)  │ 1176  │
-└──────────┴────────────┴───────┘
+Checker :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [2994/2994] 00:00
+Checker :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [4210/4210] 00:00
+Checker :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [1238/1238] 00:00
+┏━━━━━━━━━━┳━━━━━━━━━━━━━┳━━━━━━━┓
+┃ Protocol ┃ Working     ┃ Total ┃
+┡━━━━━━━━━━╇━━━━━━━━━━━━━╇━━━━━━━┩
+│ HTTP     │ 204 (6.8%)  │ 2994  │
+│ SOCKS4   │ 172 (4.1%)  │ 4210  │
+│ SOCKS5   │ 137 (11.1%) │ 1238  │
+└──────────┴─────────────┴───────┘
 Proxy folders have been created in the /home/runner/work/proxy-list/proxy-list 
 folder.
