@@ -1,20 +1,24 @@
 None: 'NoneType' object has no attribute 'strip'
-https://www.proxyscan.io/download?type=socks4: 
-https://www.proxyscan.io/download?type=socks5: 
-https://www.proxyscan.io/download?type=http: 
-https://www.proxyscan.io/download?type=https: 
+https://www.proxyscan.io/download?type=https: Cannot connect to host 
+www.proxyscan.io:443 ssl:default [Temporary failure in name resolution]
+https://www.proxyscan.io/download?type=http: Cannot connect to host 
+www.proxyscan.io:443 ssl:default [Temporary failure in name resolution]
+https://www.proxyscan.io/download?type=socks4: Cannot connect to host 
+www.proxyscan.io:443 ssl:default [Temporary failure in name resolution]
+https://www.proxyscan.io/download?type=socks5: Cannot connect to host 
+www.proxyscan.io:443 ssl:default [Temporary failure in name resolution]
 Scraper :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [24/24] 00:00
 Scraper :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [12/12] 00:00
 Scraper :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [14/14] 00:00
-Checker :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [2997/2997] 00:00
-Checker :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [4421/4421] 00:00
-Checker :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [1215/1215] 00:00
-┏━━━━━━━━━━┳━━━━━━━━━━━━━┳━━━━━━━┓
-┃ Protocol ┃ Working     ┃ Total ┃
-┡━━━━━━━━━━╇━━━━━━━━━━━━━╇━━━━━━━┩
-│ HTTP     │ 75 (2.5%)   │ 2997  │
-│ SOCKS4   │ 238 (5.4%)  │ 4421  │
-│ SOCKS5   │ 124 (10.2%) │ 1215  │
-└──────────┴─────────────┴───────┘
+Checker :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [2991/2991] 00:00
+Checker :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [4427/4427] 00:00
+Checker :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [1186/1186] 00:00
+┏━━━━━━━━━━┳━━━━━━━━━━━━┳━━━━━━━┓
+┃ Protocol ┃ Working    ┃ Total ┃
+┡━━━━━━━━━━╇━━━━━━━━━━━━╇━━━━━━━┩
+│ HTTP     │ 72 (2.4%)  │ 2991  │
+│ SOCKS4   │ 222 (5.0%) │ 4427  │
+│ SOCKS5   │ 83 (7.0%)  │ 1186  │
+└──────────┴────────────┴───────┘
 Proxy folders have been created in the /home/runner/work/proxy-list/proxy-list 
 folder.
